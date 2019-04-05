@@ -52,3 +52,7 @@
 * Computability and Complexity-from a programming perspective.Neils D.Jones,the MIT Press,1997. this book is not directly related to LISP,needless to say that it is Saitama.
 * The Original 'Lambda Papers' by Guy Steele and Gerald Sussman : http://library.readscheme.org/page1.html
 * The Rise of Worse is Better - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html
+##### Wikipedia
+* Lisp: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+* Common Lisp: https://en.wikipedia.org/wiki/Common_Lisp
+* Scheme: https://en.wikipedia.org/wiki/Scheme_(programming_language)

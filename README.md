@@ -55,4 +55,7 @@
 ##### Wikipedia:
 * Lisp: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 * Common Lisp: https://en.wikipedia.org/wiki/Common_Lisp
+* [Common-Lisp.net](https://common-lisp.net/)
 * Scheme: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+* [Scheme Reports](http://www.scheme-reports.org/)
+* [Schemers.org](https://schemers.org/)

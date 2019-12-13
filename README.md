@@ -7,6 +7,7 @@
 * [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh
 * [Learn Lisp Programming:Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 ##### 播客有关LISP的节目：
+* 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：David Gu 
 * Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河）.
 * 代码时间——http://codetimecn.com/episodes/lisp 嘉宾：韩祝鹏.
 * 代码时间——http://codetimecn.com/episodes/clojure 嘉宾：何婧誉（Loretta）

@@ -33,6 +33,7 @@
 * [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
 * [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
 ##### 经典博文：
+* Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
 * Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html

@@ -36,6 +36,7 @@
 * Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
 * Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
+* 读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel：http://blog.sciencenet.cn/blog-2349385-1039514.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 * 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
 * 不用 Lisp 学 Lisp: https://techsingular.net/2015/03/22/

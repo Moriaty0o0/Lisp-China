@@ -18,7 +18,7 @@
 * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
 * Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运)
 * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) - https://www.bilibili.com/video/av32496013/ (油管搬运)
-##### courses:
+##### Courses:
 * [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)
 ##### 在线读物（PDF...）
 * [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/)

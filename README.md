@@ -20,8 +20,8 @@
 * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) - https://www.bilibili.com/video/av32496013/ (油管搬运)
 ##### Courses:
 * [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)
-* [程序设计技术和方法(2014春季 裘宗燕)教科书SICP](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/)数学学院和信息学院本科生三年级
-* [程序设计语言原理(研究生课)2012](http://www.math.pku.edu.cn/teachers/qiuzy/plan/)主要参考书:《程序设计语言——实践之路》
+* [程序设计技术和方法(2014春季 裘宗燕)教科书SICP](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) 北京大学数学学院和信息学院本科生三年级
+* [程序设计语言原理(研究生课)2012](http://www.math.pku.edu.cn/teachers/qiuzy/plan/) 主要参考书:《程序设计语言——实践之路》
 ##### 在线读物（PDF...）
 * [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/)
 * [Professor John McCarthy](http://jmc.stanford.edu/index.html)

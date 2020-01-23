@@ -31,6 +31,7 @@
 * [Professor John McCarthy](http://jmc.stanford.edu/index.html)
 * [Guy Steele](https://www.researchgate.net/profile/Guy_Steele) 
 * ##### [History of LISP](http://www.softwarepreservation.org/projects/LISP) - [Paul Mcjones](https://mcjones.org/), editor.
+* [Pascal Costanza's Highly Opinionated Guide to Lisp(http://www.p-cos.net/lisp/guide.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)
 * [Common Lisp the Language, 2nd Edition](http://www-prod-gif.supelec.fr/docs/cltl/clm/clm.html) - Guy L. Steele Jr.

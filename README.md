@@ -42,6 +42,7 @@
 * [Learning Lisp for CMPT 310](http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
 * [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
 * [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
+* [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
 ##### 经典博文：
 * Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
 * Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html

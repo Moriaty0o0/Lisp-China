@@ -23,7 +23,7 @@
 ##### Courses:
 * [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)
 * [程序设计技术和方法(2014春季 裘宗燕)教科书SICP](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) 北京大学数学学院和信息学院本科生三年级
-* [程序设计语言原理(研究生课)2012](http://www.math.pku.edu.cn/teachers/qiuzy/plan/) 主要参考书:《程序设计语言——实践之路》
+* [程序设计语言原理(研究生课)2012](http://www.math.pku.edu.cn/teachers/qiuzy/plan/) 主要参考书:《程序设计语言——实践之路》[文献汇编](http://www.math.pku.edu.cn/teachers/qiuzy/plan/lits/index.htm)
 * [Structure and Interpretation of Computer Programs](https://cs.nju.edu.cn/xyfeng/teaching/SICP/) Fall2019, 冯新宇. 南京大学
 * [程序设计语言的形式语义](https://cs.nju.edu.cn/hongjin/teaching/semantics/index.htm) Fall2019，冯新宇，梁红瑾. 南京大学
 ##### 在线读物（PDF...）

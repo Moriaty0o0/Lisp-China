@@ -15,6 +15,7 @@
 * Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
 * Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
 * Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
+* [Functional Geekery](https://www.functionalgeekery.com/)A podcast on Functional Programming, covering topics across multiple languages.
 ##### 视频：
 * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
 * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/

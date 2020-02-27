@@ -40,7 +40,6 @@
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [Lisp journey](https://lisp-journey.gitlab.io/)
 * [European Lisp Symposium](https://european-lisp-symposium.org/)
-* [Learning Lisp for CMPT 310](http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
 * [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
 * [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
 * [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)

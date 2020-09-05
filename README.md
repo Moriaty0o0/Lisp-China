@@ -32,7 +32,7 @@
 * [This FTP site](http://okmij.org/ftp/)
 * [Professor John McCarthy](http://jmc.stanford.edu/index.html)
 * [Guy Steele](https://www.researchgate.net/profile/Guy_Steele) 
-* ##### [History of LISP](http://www.softwarepreservation.org/projects/LISP) - [Paul Mcjones](https://mcjones.org/), editor.
+* ##### [History of LISP](http://www.softwarepreservation.org/projects/LISP) by [Paul Mcjones](https://mcjones.org/)
 * [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)

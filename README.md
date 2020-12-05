@@ -20,9 +20,9 @@
 
 ##### 播客有关LISP的节目：
 * 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：David Gu ，2019年.
-* Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河）.
-* 代码时间——http://codetimecn.com/episodes/lisp 嘉宾：韩祝鹏，2016年.
-* 代码时间——http://codetimecn.com/episodes/clojure 嘉宾：何婧誉（Loretta），2016年.
+* Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.
+* 代码时间 —— 嘉宾：韩祝鹏，2016年.
+* 代码时间 —— 嘉宾：何婧誉（Loretta），2016年.
 * Loretta He：Clojure开发的心路历程——http://www.infoq.com/cn/interviews/interview-with-lorettahe-talk-clojure-develop
 * Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
 * Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel

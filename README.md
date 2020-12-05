@@ -16,8 +16,8 @@
 <table>
 <tr>
 <td><a><img width="100px" src="./images/ANSI.jpg"/></a></td>
-<td><a><img width="120px" src="./images/practical.jpg"/></a></td>
-<td><a><img width="140px" src="./images/实用.jpg"/></a></td>
+<td><a><img width="115px" src="./images/practical.jpg"/></a></td>
+<td><a><img width="130px" src="./images/实用.jpg"/></a></td>
 </tr>
 </table>
 

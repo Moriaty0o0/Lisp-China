@@ -1,15 +1,27 @@
 <div align=center><img src="./images/LandOfLisp.png" width="150px"></div>
 
 
-###### 《LISP语言》马希文( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。这本书好像没有参考文献
-###### 《数学·计算·逻辑》陆汝钤 著，湖南教育出版社，1993年4月第1版. 这本书和LISP没什么直接的关联，但看一看也未尝不可，薄薄的小册子内容还蛮精彩的。
-###### 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
-###### 《人工智能哲学》【英】玛格丽特·博登. 刘西瑞 王汉琦 译，2001年11月第1版。收录了AI发展史上具有里程碑式地位的15篇文章，其文章写作时间起于1950年，止于1990年。
+- 《LISP语言》马希文( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。这本书好像没有参考文献。
+
+- 《数学·计算·逻辑》陆汝钤 著，湖南教育出版社，1993年4月第1版. 这本书和LISP没什么直接的关联，但看一看也未尝不可，薄薄的小册子内容还蛮精彩的。
+
+- 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
+
+- 《人工智能哲学》【英】玛格丽特·博登. 刘西瑞 王汉琦 译，2001年11月第1版。收录了AI发展史上具有里程碑式地位的15篇文章，其文章写作时间起于1950年，止于1990年。
 
 *****
 
-###### 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
-###### 《Scheme 入门教程》https://deathking.github.io/yast-cn/
+##### 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
+
+<table>
+<tr>
+<td><a><img width="100px" src="./images/ANSI.jpg"/></a></td>
+<td><a><img width="110px" src="./images/practical.jpg"/></a></td>
+<td><a><img width="115px" src="./images/实用.jpg"/></a></td>
+</tr>
+</table>
+
+##### 《Scheme 入门教程》https://deathking.github.io/yast-cn/
 * [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 * [Learn Lisp Programming:Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 
@@ -19,15 +31,23 @@
 
 
 ##### 播客有关LISP的节目：
-* 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：David Gu ，2019年.
-* Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.
-* 代码时间 —— 嘉宾：韩祝鹏，2016年.
-* 代码时间 —— 嘉宾：何婧誉（Loretta），2016年.
-* Loretta He：Clojure开发的心路历程——http://www.infoq.com/cn/interviews/interview-with-lorettahe-talk-clojure-develop
-* Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
-* Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
-* Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
-* [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
+
+* <img width="35px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：David Gu ，2019年.
+
+* <img width="35px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.
+
+* <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，2016年.
+
+* <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），2016年.
+
+* <img width="35px" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
+
+* <img width="35px" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png"/> Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
+
+* <img width="35px" src="https://www.se-radio.net/wp-content/uploads/2014/10/se-radio-logo.png"/> Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
+
+* <img width="35px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
+
 ##### 视频：
 * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
 * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
@@ -70,16 +90,25 @@
 * The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
 * 7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
 ##### 经典著作：
-* Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.
-* Learning to Program in LISP.John R.Anderson,Robert Farrell and Ron Sauers.Carnegie-Mellon University.Cognitive Science 8,87-129(1984).
-* The Roots of Lisp.Paul Graham.Draft,January 18,2002.
-* Basic Lisp Techniques.David J.Cooper,franz.com,2003.
-* Successful Lisp:How to Understand and Use Common lisp.David B.Lamkins,bookfix.com,2004.
-* Logic Programming in Scheme.Nils M Holm,2007.
-* An Axiomatic Basis for Computer Programming.C.A.R.Hoare.
-* Computability and Complexity-from a programming perspective.Neils D.Jones,the MIT Press,1997. this book is not directly related to LISP,needless to say that it is Saitama.
-* The Original 'Lambda Papers' by Guy Steele and Gerald Sussman : http://library.readscheme.org/page1.html
-* The Rise of Worse is Better - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html
+* **Programming Languages: Application and Interpretation**  Shriram Krishnamurthi 
+
+<div align=center><img width="100px" src="./images/Shriram.jpg"/></div>
+
+* **Learning to Program in LISP** John R.Anderson, Robert Farrell and Ron Sauers. Carnegie-Mellon University. Cognitive Science 8,87-129(1984).
+* **The Roots of Lisp** Paul Graham. Draft,January 18, 2002.
+* **Basic Lisp Techniques** David J.Cooper, franz.com, 2003.
+* **Successful Lisp:How to Understand and Use Common lisp** David B.Lamkins, bookfix.com, 2004.
+
+<div align=center><img width="100px" src="./images/successful.jpg"/></div>
+
+* **Logic Programming in Scheme** Nils M Holm, 2007.
+
+<div align=center><img width="100px" src="./images/logic.png"/></div>
+
+* **An Axiomatic Basis for Computer Programming** C.A.R.Hoare.
+* **Computability and Complexity-from a programming perspective** Neils D.Jones, the MIT Press, 1997. this book is not directly related to LISP,needless to say that it is Saitama.
+* The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://library.readscheme.org/page1.html
+* **The Rise of Worse is Better** - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html
 ##### Wikipedia:
 * Lisp: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 * Common Lisp: https://en.wikipedia.org/wiki/Common_Lisp

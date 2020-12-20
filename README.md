@@ -21,6 +21,7 @@
 <td><a href="http://www.gigamonkeys.com/book/"><img width="115px" src="./images/practical.jpg"/></a></td>
 <td><a><img width="130px" src="./images/实用.jpg"/></a></td>
 <td><a href="https://lispcookbook.github.io/cl-cookbook/"><img width="100px" src="./images/cookbook.png"/></a></td>
+<td><a href=""><img width="100px" src="./images/Condition.jpg"/></a></td>
 </tr>
 </table>
 
@@ -43,7 +44,7 @@
 - [Scheme中文社区](http://theschemer.org/)
 
 
-##### 播客有关LISP的节目：
+##### Podcasts：
 
 * <img width="35px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：David Gu ，2019年.
 
@@ -61,14 +62,14 @@
 
 * <img width="35px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
 
-##### 视频：
+##### Video：
 
 * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
 * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
 * Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运)
 * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) - https://www.bilibili.com/video/av32496013/ (油管搬运)
 
-##### 课程:
+##### Teaching:
 
 | Edu | Course |  |
 |:--:|:---:|:---:|
@@ -83,7 +84,7 @@
 Journal: [Lisp and Symbolic Computation / Higher-Order and Symbolic Computation](https://dblp.org/db/journals/lisp/index.html)
 
 
-##### 在线（PDF...）：
+##### Online：
 
 * [Professor John McCarthy](http://jmc.stanford.edu/index.html)
 * [Guy Steele](https://www.researchgate.net/profile/Guy_Steele) 
@@ -93,7 +94,7 @@ Journal: [Lisp and Symbolic Computation / Higher-Order and Symbolic Computation]
 * [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
 * [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
 
-##### 经典博文：
+##### Classic Posts：
 
 > Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
 
@@ -121,7 +122,7 @@ Journal: [Lisp and Symbolic Computation / Higher-Order and Symbolic Computation]
 
 > 7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
 
-##### 经典论著：
+##### Books：
 
 **Programming Languages: Application and Interpretation**  Shriram Krishnamurthi 
 

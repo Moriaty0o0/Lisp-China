@@ -3,14 +3,14 @@
 * [History](#history)
 * [路径](#路径)
 * [著述](#著述)
+* [Books](#books)
 * [Emacs](#emacs)
 * [Forum](#forum)
 * [Podcasts](#podcasts)
 * [Video](#video)
-* [Teaching](#teaching)
-* [Books](#books)
+* [课程](#课程)
 * [Journal](#journal)
-* [ClassicPosts](#classicposts)
+* [博文](#博文)
 * [Wikipedia](#wikipedia)
 
 ******
@@ -46,73 +46,6 @@
 
 - 《The Common Lisp Cookbook》中文翻译 https://oneforalone.github.io/cl-cookbook-cn/
 
-### Emacs：
-
-  * [Emacs China 社区](https://emacs-china.org/)
-
-  * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
-
-  * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky
-
-  * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
-
-  * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou 
-
-  * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/)
-
-
-### Forum：
-
-  * [Lisp journey](https://lisp-journey.gitlab.io/)
-
-  * [EmacsConf](https://emacsconf.org)
-
-  * [European Lisp Symposium](https://european-lisp-symposium.org)
-
-  * [Emacs China](https://emacs-china.org/)
-
-  * [Scheme中文社区](http://theschemer.org/)
-
-
-### Podcasts：
-
-  * <img width="35px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
-
-  * <img width="35px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.
-
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，2016年.https://www.ximalaya.com/keji/4867505/25888083
-
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），2016年.https://www.ximalaya.com/keji/4867505/19342829
-
-  * <img width="35px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
-
-  * <img width="35px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
-
-  * <img width="35px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
-
-  * <img width="35px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
-
-### Video：
-
-  * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
-  * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
-  * Andy Balaam - Scheme Programming [B站](https://www.bilibili.com/video/av36910308/) [油管](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
-  * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [B站](https://www.bilibili.com/video/av32496013/) [油管](https://www.youtube.com/watch?v=IHP7P_HlcBk)
-  * Little Bits of Lisp [B站](https://www.bilibili.com/video/BV15J411J7Aw) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [B站](https://www.bilibili.com/video/BV1K7411v7bj) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
-
-### Teaching:
-<div align=center>
-
-| Edu | Course |  |
-|:--:|:---:|:---:|
-|  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)   |  [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
-|北京大学|[程序设计技术和方法 (教科书SICP)](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) | 2014春季本科生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) |
-| 北京大学 |[程序设计语言原理]((http://www.math.pku.edu.cn/teachers/qiuzy/plan/)) (主要参考书:《程序设计语言——实践之路》[文献汇编](http://www.math.pku.edu.cn/teachers/qiuzy/plan/lits/index.htm)  | 2012 研究生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) |
-| 南京大学 | Structure and Interpretation of Computer Programs  |  [冯新宇](https://cs.nju.edu.cn/xyfeng/) |
-| 南京大学 | 程序设计语言的形式语义 (Formal Semantics of Programming Languages）  | [梁红瑾](https://cs.nju.edu.cn/hongjin/) |
-
-</div>
-
 ### Books：
 
 <table>
@@ -142,7 +75,7 @@
 
 **Programming Languages: Application and Interpretation**  Shriram Krishnamurthi 
 
-<div align=center><img width="100px" src="./images/Shriram.jpg"/></div>
+<div align=center><img width="120px" src="./images/Shriram.jpg"/></div>
 
 **Learning to Program in LISP** John R.Anderson, Robert Farrell and Ron Sauers. Carnegie-Mellon University. Cognitive Science 8,87-129(1984).
 
@@ -152,11 +85,11 @@
 
 **Successful Lisp:How to Understand and Use Common lisp** David B.Lamkins, bookfix.com, 2004.
 
-<div align=center><img width="100px" src="./images/successful.jpg"/></div>
+<div align=center><img width="120px" src="./images/successful.jpg"/></div>
 
 **Logic Programming in Scheme** Nils M Holm, 2007.
 
-<div align=center><img width="100px" src="./images/logic.png"/></div>
+<div align=center><img width="120px" src="./images/logic.png"/></div>
 
 **An Axiomatic Basis for Computer Programming** C.A.R.Hoare.
 
@@ -166,11 +99,77 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 **The Rise of Worse is Better** - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html
 
+### Emacs：
+
+  * [Emacs China 社区](https://emacs-china.org/)
+
+  * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
+
+  * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky
+
+  * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
+
+  * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou 
+
+  * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/)
+
+### Forum：
+
+  * [Lisp journey](https://lisp-journey.gitlab.io/)
+
+  * [EmacsConf](https://emacsconf.org)
+
+  * [European Lisp Symposium](https://european-lisp-symposium.org)
+
+  * [Emacs China](https://emacs-china.org/)
+
+  * [Scheme中文社区](http://theschemer.org/)
+
+
+### Podcasts：
+
+  * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
+
+  * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.
+
+  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，2016年.https://www.ximalaya.com/keji/4867505/25888083
+
+  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），2016年.https://www.ximalaya.com/keji/4867505/19342829
+
+  * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
+
+  * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
+
+  * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
+
+  * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
+
+### Video：
+
+  * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
+  * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
+  * Andy Balaam - Scheme Programming [B站](https://www.bilibili.com/video/av36910308/) [油管](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
+  * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [B站](https://www.bilibili.com/video/av32496013/) [油管](https://www.youtube.com/watch?v=IHP7P_HlcBk)
+  * Little Bits of Lisp [B站](https://www.bilibili.com/video/BV15J411J7Aw) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [B站](https://www.bilibili.com/video/BV1K7411v7bj) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
+
+### 课程:
+<div align=center>
+
+| Edu | Course |  |
+|:--:|:---:|:---:|
+|  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)   |  [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
+|北京大学|[程序设计技术和方法 (教科书SICP)](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) | 2014春季本科生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) |
+| 北京大学 |[程序设计语言原理]((http://www.math.pku.edu.cn/teachers/qiuzy/plan/)) (主要参考书:《程序设计语言——实践之路》[文献汇编](http://www.math.pku.edu.cn/teachers/qiuzy/plan/lits/index.htm)  | 2012 研究生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) |
+| 南京大学 | Structure and Interpretation of Computer Programs  |  [冯新宇](https://cs.nju.edu.cn/xyfeng/) |
+| 南京大学 | 程序设计语言的形式语义 (Formal Semantics of Programming Languages）  | [梁红瑾](https://cs.nju.edu.cn/hongjin/) |
+
+</div>
+
 ### Journal:
 
 [Lisp and Symbolic Computation / Higher-Order and Symbolic Computation](https://dblp.org/db/journals/lisp/index.html)
 
-### ClassicPosts:
+### 博文:
 
 > [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
 > [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)

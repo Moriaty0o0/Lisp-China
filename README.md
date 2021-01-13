@@ -1,5 +1,6 @@
 ## 目录
 
+* [Lisp月刊](#lisp月刊)
 * [History](#history)
 * [路径](#路径)
 * [著述](#著述)
@@ -17,7 +18,11 @@
 
 <div align=center><img src="./images/LandOfLisp.png" width="150px"></div>
 
-### History
+### Lisp月刊：
+
+  [2021年1月刊]()
+
+### History：
 
 - [Professor John McCarthy](http://jmc.stanford.edu/index.html)
 
@@ -25,14 +30,14 @@
 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 
-### 路径
+### 路径：
 
 - [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
 - [Learn Lisp Programming: Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 
 
-### 著述
+### 著述：
 
 - 《LISP语言》马希文( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
 

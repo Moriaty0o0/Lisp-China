@@ -1,6 +1,5 @@
 ## 目录
 
-* [Lisp月刊](#lisp月刊)
 * [History](#history)
 * [路径](#路径)
 * [著述](#著述)
@@ -17,10 +16,6 @@
 ******
 
 <div align=center><img src="./images/LandOfLisp.png" width="150px"></div>
-
-### Lisp月刊：
-
-  [2021年1月刊]()
 
 ### History：
 

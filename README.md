@@ -21,7 +21,7 @@
 
 - [Professor John McCarthy](http://jmc.stanford.edu/index.html)
 
-- [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/)
+- [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/)
 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 
@@ -73,6 +73,28 @@
 </tr>
 </table>
 
+**Scheme and the Art of Programing**
+
+**Essentials of Programming Languages**
+
+**[The Scheme Programming Language, 4th Edition](https://www.scheme.com/tspl4)**
+
+**[Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html)** by  Guy L. Steele Jr. &全面且详细
+
+**[On Lisp: Advanced Techniques for Common Lisp](http://paulgraham.com/onlisptext.html)** Paul Graham 高级编程 &  [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)
+
+**[Let Over Lambda](https://letoverlambda.com/textmode.cl)**
+
+Doug Hoyte 《On《On Lisp》》
+
+**Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene
+
+**ANSI Common Lisp** Paul Graham [中文翻译](https://acl.readthedocs.io/en/latest/zhCN/index.html) & 基础教程
+
+**Lisp in Small Pieces** Christian Queinnec 
+
+**[Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp)** 经典AI算法，侧重逻辑和推理。
+
 **Programming Languages: Application and Interpretation**  Shriram Krishnamurthi 
 
 <div align=center><img width="120px" src="./images/Shriram.jpg"/></div>
@@ -117,6 +139,10 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
   * [Lisp journey](https://lisp-journey.gitlab.io/)
 
+  * [Quicklisp news](http://blog.quicklisp.org/)
+  
+  * [Planet Lisp](http://planet.lisp.org/)
+
   * [EmacsConf](https://emacsconf.org)
 
   * [European Lisp Symposium](https://european-lisp-symposium.org)
@@ -151,6 +177,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
   * Andy Balaam - Scheme Programming [B站](https://www.bilibili.com/video/av36910308/) [油管](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
   * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [B站](https://www.bilibili.com/video/av32496013/) [油管](https://www.youtube.com/watch?v=IHP7P_HlcBk)
   * Little Bits of Lisp [B站](https://www.bilibili.com/video/BV15J411J7Aw) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [B站](https://www.bilibili.com/video/BV1K7411v7bj) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
+  * 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
 
 ### 课程:
 <div align=center>

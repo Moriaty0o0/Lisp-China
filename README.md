@@ -25,7 +25,7 @@
 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 
-### 路径：
+### 学习路径：
 
 - [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
@@ -43,6 +43,8 @@
 - 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
 
 - 《Scheme 入门教程》https://deathking.github.io/yast-cn/
+
+- 《Teach Yourself Scheme in Fixnum Days》中文翻译 https://songjinghe.github.io/TYS-zh-translation/ （Scheme语言简明教程）
 
 - 《The Common Lisp Cookbook》中文翻译 https://oneforalone.github.io/cl-cookbook-cn/
 

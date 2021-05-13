@@ -137,6 +137,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
   * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/)
 
+  * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
+
 ### Forum：
 
   * [Lisp journey](https://lisp-journey.gitlab.io/)

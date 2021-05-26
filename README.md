@@ -1,20 +1,3 @@
-## 目录
-
-* [History](#history)
-* [路径](#路径)
-* [著述](#著述)
-* [Books](#books)
-* [Emacs](#emacs)
-* [Forum](#forum)
-* [Podcasts](#podcasts)
-* [Video](#video)
-* [课程](#课程)
-* [Journal](#journal)
-* [博文](#博文)
-* [Wikipedia](#wikipedia)
-
-******
-
 <div align=center><img src="./images/LandOfLisp.png" width="150px"></div>
 
 ### History：

@@ -1,6 +1,6 @@
 <div align=center><img src="./images/LandOfLisp.png" width="150px"></div>
 
-### History：
+### History:
 
 - [Professor John McCarthy](http://jmc.stanford.edu/index.html)
 
@@ -8,14 +8,14 @@
 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 
-### 学习路径：
+### 学习路径:
 
 - [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
 - [Learn Lisp Programming: Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 
 
-### 著述：
+### 著述:
 
 - 《LISP语言》马希文( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
 
@@ -31,7 +31,7 @@
 
 - 《The Common Lisp Cookbook》中文翻译 https://oneforalone.github.io/cl-cookbook-cn/
 
-### Books：
+### Books:
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 **The Rise of Worse is Better** - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html
 
-### Emacs：
+### Emacs:
 
   * [Emacs China 社区](https://emacs-china.org/)
 
@@ -122,7 +122,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
 
-### Forum：
+### Forum:
 
   * [Lisp journey](https://lisp-journey.gitlab.io/)
 
@@ -139,7 +139,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
   * [Scheme中文社区](http://theschemer.org/)
 
 
-### Podcasts：
+### Podcasts:
 
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
@@ -157,7 +157,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
   * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
 
-### Video：
+### Video:
 
   * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
   * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/

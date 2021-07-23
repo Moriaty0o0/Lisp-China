@@ -3,13 +3,11 @@
 ### History:
 
 - [Professor John McCarthy](http://jmc.stanford.edu/index.html)
-
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/)
-
+- [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
-
-- [A history of Clojure](https://dl.acm.org/doi/10.1145/3386321) Rich Hickey , Proceedings of the ACM on Programming LanguagesJune 2020 Article No 71.
-
+- [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
+- [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey ,  2020. 
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74.
 
 ### 学习路径:
@@ -22,17 +20,12 @@
 ### 著述:
 
 - 《LISP语言》马希文( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
-
 - 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
-
 - [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚
-
+- [LISP FROM NOTHING](http://t3x.org/lfn/)
 - 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
-
 - 《Scheme 入门教程》https://deathking.github.io/yast-cn/
-
 - 《Teach Yourself Scheme in Fixnum Days》中文翻译 https://songjinghe.github.io/TYS-zh-translation/ （Scheme语言简明教程）
-
 - 《The Common Lisp Cookbook》中文翻译 https://oneforalone.github.io/cl-cookbook-cn/
 
 ### Books:
@@ -122,7 +115,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
   * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou 
 
-  * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/)
+      * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/) [github](https://github.com/redguardtoo)
 
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
 
@@ -205,6 +198,10 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 > Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 
 > 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
+
+> [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html)
+
+> [Early LISP Part II (Apply redux)](https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html)
 
 > 不用 Lisp 学 Lisp: https://techsingular.net/2015/03/22/
 

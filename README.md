@@ -138,6 +138,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 ### Podcasts:
 
+  * [EmacsTalk](https://emacstalk.github.io/)
+
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
   * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.

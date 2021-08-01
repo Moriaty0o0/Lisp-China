@@ -26,7 +26,7 @@
 - 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
 - 《Scheme 入门教程》https://deathking.github.io/yast-cn/
 - 《Teach Yourself Scheme in Fixnum Days》中文翻译 https://songjinghe.github.io/TYS-zh-translation/ （Scheme语言简明教程）
-- 《The Common Lisp Cookbook》中文翻译 https://oneforalone.github.io/cl-cookbook-cn/
+- 《[The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)》中文翻译 https://oneforalone.github.io/cl-cookbook-cn/
 
 ### Books:
 
@@ -137,8 +137,6 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 
 ### Podcasts:
-
-  * [EmacsTalk](https://emacstalk.github.io/)
 
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 

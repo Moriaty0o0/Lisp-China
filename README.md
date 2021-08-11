@@ -77,7 +77,7 @@ Doug Hoyte 《On《On Lisp》》
 
 **[Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp)** 经典AI算法，侧重逻辑和推理。
 
-**Programming Languages: Application and Interpretation**  Shriram Krishnamurthi 
+**Programming Languages: Application and Interpretation**  [Shriram Krishnamurthi](https://papl.cs.brown.edu/) 
 
 <div align=center><img width="120px" src="./images/Shriram.jpg"/></div>
 
@@ -106,17 +106,11 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 ### Emacs:
 
   * [Emacs China 社区](https://emacs-china.org/)
-
   * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
-
   * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky
-
   * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
-
   * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou 
-
-      * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/) [github](https://github.com/redguardtoo)
-
+  * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/) [github](https://github.com/redguardtoo)
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
 
 ### Forum:

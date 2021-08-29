@@ -2,13 +2,14 @@
 
 ### History:
 
-- [Professor John McCarthy](http://jmc.stanford.edu/index.html)
+- [Professor John McCarthy](http://jmc.stanford.edu/index.html) <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="125">
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
 - [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey ,  2020. 
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74.
+- [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
 
 ### 学习路径:
 
@@ -168,7 +169,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 | 南京大学 | Structure and Interpretation of Computer Programs  |  [冯新宇](https://cs.nju.edu.cn/xyfeng/) |
 | 南京大学 | 程序设计语言的形式语义 (Formal Semantics of Programming Languages）  | [梁红瑾](https://cs.nju.edu.cn/hongjin/) |
 
-</div>
+
 
 ### Journal:
 
@@ -180,6 +181,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 > [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
 > [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
 > [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
+>
+> [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
 
 > Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
 
@@ -224,3 +227,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
   * [Scheme Reports](http://www.scheme-reports.org/)
 
   * [Schemers.org](https://schemers.org/)
+
+
+
+![stars](https://starchart.cc/alaskasquirrel/lisp-china.svg)

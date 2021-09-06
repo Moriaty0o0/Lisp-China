@@ -2,7 +2,7 @@
 
 ### History:
 
-- [Professor John McCarthy](http://jmc.stanford.edu/index.html) <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="125">
+- [Professor John McCarthy](http://jmc.stanford.edu/index.html) <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150">
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr. and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html)  , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
@@ -10,6 +10,8 @@
 - [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey ,  2020. 
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74.
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
+- [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
+- [Symbolics Lisp Machine Museum](http://smbx.org/)
 
 ### 学习路径:
 
@@ -178,10 +180,13 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 ### 博文:
 
 > [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
+
 > [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
+
 > [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
+
 > [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
->
+
 > [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
 
 > Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
@@ -214,17 +219,24 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 > 7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
 
+> [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
+
 ### Wikipedia:
 
   * Lisp: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 
+
   * Common Lisp: https://en.wikipedia.org/wiki/Common_Lisp
+
 
   * [Common-Lisp.net](https://common-lisp.net/)
 
+
   * Scheme: https://en.wikipedia.org/wiki/Scheme_(programming_language)
 
+
   * [Scheme Reports](http://www.scheme-reports.org/)
+
 
   * [Schemers.org](https://schemers.org/)
 

@@ -186,47 +186,46 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 ### 博文:
 
-> [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
+- [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
 
-> [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
+- [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
+- [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
 
-> [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
+- [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
 
-> [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
+- [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
 
-> [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
+- Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
 
-> Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
+- Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html
 
-> Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html
+- Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 
-> Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
+- 读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel：http://blog.sciencenet.cn/blog-2349385-1039514.html
 
-> 读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel：http://blog.sciencenet.cn/blog-2349385-1039514.html
+- Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 
-> Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
+- 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
 
-> 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
+- [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html)
 
-> [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html)
+- [Early LISP Part II (Apply redux)](https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html)
 
-> [Early LISP Part II (Apply redux)](https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html)
+- 不用 Lisp 学 Lisp: https://techsingular.net/2015/03/22/
 
-> 不用 Lisp 学 Lisp: https://techsingular.net/2015/03/22/
+- Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
 
-> Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
+- Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
 
-> Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
+- This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
 
-> This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
+- The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
 
-> The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
+- The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
 
-> The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
+- 7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
 
-> 7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
-
-> [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
+- [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
 
 ### Wikipedia:
 

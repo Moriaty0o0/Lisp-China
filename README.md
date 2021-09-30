@@ -154,11 +154,18 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 ### Video:
 
   * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
+
   * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
+
   * Andy Balaam - Scheme Programming [B站](https://www.bilibili.com/video/av36910308/) [油管](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
+
   * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [B站](https://www.bilibili.com/video/av32496013/) [油管](https://www.youtube.com/watch?v=IHP7P_HlcBk)
+
   * Little Bits of Lisp [B站](https://www.bilibili.com/video/BV15J411J7Aw) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [B站](https://www.bilibili.com/video/BV1K7411v7bj) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
+
   * 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
+
+* [Readable Lisp S-expressions Project](https://readable.sourceforge.io/)
 
 ### 课程:
 <div align=center>

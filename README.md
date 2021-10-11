@@ -187,9 +187,15 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 ### Journal:
 
+
+
 [Lisp and Symbolic Computation / Higher-Order and Symbolic Computation](https://dblp.org/db/journals/lisp/index.html)
 
+
+
 ### 博文:
+
+
 
 [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
 

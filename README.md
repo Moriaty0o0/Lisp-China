@@ -108,6 +108,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman : http://libra
 
 ### Emacs:
 
+  * [EmacsTalk 是一档专注在 Emacs 社区的程序员闲聊节目](https://emacstalk.github.io/)
   * [Emacs China 社区](https://emacs-china.org/)
   * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
   * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky

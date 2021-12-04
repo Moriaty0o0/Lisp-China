@@ -34,6 +34,22 @@
 
 <table>
 <tr>
+    <th><a>The Little LISPer</a></th>
+    <th><a>The Little Schemer</a></th>
+    <th><a>The Little MLer</a></th>
+    <th><a>The Little Java, A Few Petterns</a></th>
+    <th><a>The Little Prover</a></th>
+    <th><a>The Little Typer</a></th>
+</tr>
+<tr>
+    <td><a><img width="125px" src="./images/Lisper.jpg"></a></td>
+    <td><a><img width="125px" src="./images/Schemer.jpg"></a></td>
+    <td><a><img width="125px" src="./images/MLer.jpg"></a></td>
+    <td><a><div align=center><img width="125px" src="./images/Java.jpg"></div></a></td>
+    <td><a><img width="125px" src="./images/Prover.jpg"></a></td>
+    <td><a><img width="125px" src="./images/Typer.jpg"></a></td>
+</tr>
+<tr>
 <th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
 <th><a>Common Lisp the Language, 2nd Edition</a></th>
 <th><a>Common Lisp: A Gentle Introduction to Symbolic Computation</a></th>
@@ -71,6 +87,7 @@
 <th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>
 </th>
 <th><a>On Lisp: Advanced Techniques for Common Lisp</a></th>
+<th><a>Lisp in Small Pieces</a></th>    
 <tr>
 <td><a href="https://papl.cs.brown.edu/"><div align=center><img width="125px" src="./images/Shriram.jpg"/></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/successful.jpg"/></div></a>
@@ -78,20 +95,21 @@
 <td><a><div align=center><img width="125px" src="./images/logic.png"/></div></a></td>
 <td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="125px" src="./images/AI.jpg"></div></a></td>
 <td><a href="http://paulgraham.com/onlisptext.html"><div align=center><img width="125px" src="./images/onlisp.jpg"></div></a></td>
+<td><a><div align=center><img width="125px" src="./images/Small.jpg"></div></a></td>
 </tr>
 <tr>
 </tr>
 </table>
 
+
+
 《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg"> 高级编程 &  [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)
 
 Doug Hoyte 《On《On Lisp》》
 
-**Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene
+**Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene 1989.
 
 **ANSI Common Lisp** Paul Graham [中文翻译](https://acl.readthedocs.io/en/latest/zhCN/index.html) & 基础教程
-
-**Lisp in Small Pieces** Christian Queinnec 
 
 **Learning to Program in LISP** John R.Anderson, Robert Farrell and Ron Sauers. Carnegie-Mellon University. Cognitive Science 8,87-129(1984).
 
@@ -110,6 +128,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Emacs:
 
   * [Emacs China 社区](https://emacs-china.org/)
+  * [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目。
   * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
   * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky
   * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
@@ -137,7 +156,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
-  * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河), 2014年.
+  * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe), 2014年.
 
   * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，2016年.https://www.ximalaya.com/keji/4867505/25888083
 
@@ -157,11 +176,11 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
 
-  * Andy Balaam - Scheme Programming [B站](https://www.bilibili.com/video/av36910308/) [油管](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
+  * Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/) [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
 
-  * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [B站](https://www.bilibili.com/video/av32496013/) [油管](https://www.youtube.com/watch?v=IHP7P_HlcBk)
+  * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [bilibili](https://www.bilibili.com/video/av32496013/) [youtube](https://www.youtube.com/watch?v=IHP7P_HlcBk)
 
-  * Little Bits of Lisp [B站](https://www.bilibili.com/video/BV15J411J7Aw) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [B站](https://www.bilibili.com/video/BV1K7411v7bj) [油管](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
+  * Little Bits of Lisp [bilibili](https://www.bilibili.com/video/BV15J411J7Aw) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [bilibili](https://www.bilibili.com/video/BV1K7411v7bj) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
 
   * 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
 
@@ -188,45 +207,25 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### 博文:
 
   *  [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
-
   *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
-
   *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
-
   *  [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
-
   *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
-
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
-
   *  Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html
-
   *  Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
-
   *  读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel：http://blog.sciencenet.cn/blog-2349385-1039514.html
-
   *  Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
-
   *  跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
-
   *  [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html)
-
   *  [Early LISP Part II (Apply redux)](https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html)
-
   *  不用 Lisp 学 Lisp: https://techsingular.net/2015/03/22/
-
   *  Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
-
   *  Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
-
   *  This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
-
   *  The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
-
   *  The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
-
   *  7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
-
   *  [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
 
 <table>
@@ -244,6 +243,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 <td><a><div align=center><img width="125px" src="./images/Priestley.jpg"/></div></a></td>
 <td><a href="http://ed-thelen.org/comp-hist/CBC.html"><div align=center><img width="125px" src="./images/Before.jpg"/></div></a></td>
 </tr>
+
+
 
 
 

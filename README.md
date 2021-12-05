@@ -243,7 +243,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 <td><a><div align=center><img width="125px" src="./images/Priestley.jpg"/></div></a></td>
 <td><a href="http://ed-thelen.org/comp-hist/CBC.html"><div align=center><img width="125px" src="./images/Before.jpg"/></div></a></td>
 </tr>
-
+</table>
 
 
 

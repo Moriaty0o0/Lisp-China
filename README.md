@@ -188,8 +188,6 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### 课程:
 
-<div align=center>
-
 | Edu | Course |  |
 |:--:|:---:|:---:|
 |  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)   |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |

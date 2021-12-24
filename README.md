@@ -27,7 +27,7 @@
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
 - 《ANSI Common Lisp》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
-- 《Teach Yourself Scheme in Fixnum Days》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) （Scheme语言简明教程）
+- 《Teach Yourself Scheme in Fixnum Days》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
 - 《The Common Lisp Cookbook》[中文翻译](https://oneforalone.github.io/cl-cookbook-cn/)
 
 ### Books:
@@ -103,13 +103,13 @@
 
 
 
-《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg"> 高级编程 &  [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)
+《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)
 
 Doug Hoyte 《On《On Lisp》》
 
 **Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene 1989.
 
-**ANSI Common Lisp** Paul Graham [中文翻译](https://acl.readthedocs.io/en/latest/zhCN/index.html) & 基础教程
+**ANSI Common Lisp** Paul Graham [中文翻译](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
 
 **Learning to Program in LISP** John R.Anderson, Robert Farrell and Ron Sauers. Carnegie-Mellon University. Cognitive Science 8,87-129(1984).
 
@@ -134,7 +134,10 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
   * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou 
   * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/) [github](https://github.com/redguardtoo)
+  * [Xah Emacs](http://xahlee.info/emacs/index.html)
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
+  * [Emacs Docs](https://www.emacsdocs.org/)
+  * [MELPA](https://melpa.org/)
 
 ### Forum:
 

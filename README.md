@@ -15,7 +15,7 @@
 
 ### 学习路径:
 
-- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+- <img width="150" src="./images/Road.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
 - [Learn Lisp Programming: Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 

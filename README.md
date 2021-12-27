@@ -176,17 +176,12 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Video:
 
   * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
-
   * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
-
   * Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/) [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
-
   * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [bilibili](https://www.bilibili.com/video/av32496013/) [youtube](https://www.youtube.com/watch?v=IHP7P_HlcBk)
-
-  * Little Bits of Lisp [bilibili](https://www.bilibili.com/video/BV15J411J7Aw) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [bilibili](https://www.bilibili.com/video/BV1K7411v7bj) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
-
+  * Little Bits of Lisp [bilibili](https://www.bilibili.com/video/BV15J411J7Aw) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [bilibili](https://www.bilibili.com/video/BV1K7411v7bj) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS) 
+  * [Common Lisp programming: from novice to effective developer | Udemy](https://www.udemy.com/course/common-lisp-programming/) (付费)
   * 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
-
   * [Readable Lisp S-expressions Project](https://readable.sourceforge.io/)
 
 ### 课程:

@@ -16,14 +16,25 @@
 ### 学习路径:
 
 - <img width="150" src="./images/Road.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
-
 - [Learn Lisp Programming: Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
+
+### 生态：
+
+- [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/)
+
+  > Guile is designed to help programmers create flexible applications that can be extended by users or other programmers with plug-ins, modules, or scripts.
+  >
+  > With Guile you can create applications and games for the [desktop](https://www.gnu.org/software/guile/#apps-using-guile), the [Web](https://www.gnu.org/software/guile/#apps-using-guile), the [command-line](https://www.gnu.org/software/guile/#apps-using-guile), and more.
+
+- [GNU Artanis](https://www.gnu.org/software/artanis/)  is a web application framework(WAF) written in Guile Scheme. [HardenedLinux / artanis](https://gitlab.com/hardenedlinux/artanis)
 
 ### 著述:
 
 - 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
 - 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
 - [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚
+- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/)
+- [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
 - 《ANSI Common Lisp》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
@@ -128,11 +139,11 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Emacs:
 
   * [Emacs China 社区](https://emacs-china.org/)
-  * [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目。
+  * [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目
   * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
   * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky
   * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
-  * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou 
+  * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou
   * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/) [github](https://github.com/redguardtoo)
   * [Xah Emacs](http://xahlee.info/emacs/index.html)
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
@@ -142,17 +153,13 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Forum:
 
   * [Lisp journey](https://lisp-journey.gitlab.io/)
-
+  * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp
+  * [Racket News](https://racket-news.com/)
   * [Quicklisp news](http://blog.quicklisp.org/)
-  
   * [Planet Lisp](http://planet.lisp.org/)
-
   * [EmacsConf](https://emacsconf.org)
-
   * [European Lisp Symposium](https://european-lisp-symposium.org)
-
   * [Emacs China](https://emacs-china.org/)
-
   * [Scheme中文社区](http://theschemer.org/)
 
 ### Podcasts:
@@ -221,6 +228,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
   *  The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
   *  The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
+  *  [Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/)
   *  7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
   *  [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
 

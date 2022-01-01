@@ -4,6 +4,10 @@
 
 - <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) 
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
+- Welcome to [schemers.org](https://schemers.org/)!
+- [Common Lisp](https://lisp-lang.org/)
+- [Clojure](https://clojure.org/)
+- [Racket](https://racket-lang.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
@@ -16,9 +20,18 @@
 ### 学习路径:
 
 - <img width="150" src="./images/Road.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
-- [Learn Lisp Programming: Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 
-### 生态：
+### 工具：
+
+- [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment
+
+- [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp
+
+- Emacs
+
+- [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs
+
+- [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp.
 
 - [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/)
 
@@ -40,6 +53,7 @@
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
 - 《Teach Yourself Scheme in Fixnum Days》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
 - 《The Common Lisp Cookbook》[中文翻译](https://oneforalone.github.io/cl-cookbook-cn/)
+- 《Let Over Lambda》 [中文文档](https://oneforalone.github.io/lol-zh/)
 
 ### Books:
 
@@ -134,7 +148,7 @@ Doug Hoyte 《On《On Lisp》》
 
 The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45" src="http://alltom.com/pages/best-lectures/gerald-sussman-we-really-dont-know-how-to-compute.jpg"> : http://library.readscheme.org/page1.html
 
-**The Rise of Worse is Better** - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html
+**[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)** - Richard P. Gabriel
 
 ### Emacs:
 
@@ -161,6 +175,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * [European Lisp Symposium](https://european-lisp-symposium.org)
   * [Emacs China](https://emacs-china.org/)
   * [Scheme中文社区](http://theschemer.org/)
+  * [Clojure China](http://www.clojurechina.com/zh-cn/)
 
 ### Podcasts:
 
@@ -215,21 +230,21 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
   *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
-  *  Lisp的永恒之道 : https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html
-  *  Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
-  *  读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel：http://blog.sciencenet.cn/blog-2349385-1039514.html
-  *  Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
-  *  跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
-  *  [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html)
-  *  [Early LISP Part II (Apply redux)](https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html)
-  *  不用 Lisp 学 Lisp: https://techsingular.net/2015/03/22/
+  *  [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)
+  *  [Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006)](https://www.cnblogs.com/Leap-abead/articles/762180.html)
+  *  [读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
+  *  [Lisp之根源(Paul Graham: The Roots of Lisp.May,2001)](https://www.cnblogs.com/Leap-abead/articles/762226.html)
+  *  [跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007)](https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author)
+  *  Early LISP https://funcall.blogspot.com/2021/03/early-lisp.html
+  *  Early LISP Part II (Apply redux) https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html
+  *  [不用 Lisp 学 Lisp](https://techsingular.net/2015/03/22/)
   *  Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
   *  Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
   *  This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
   *  The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
   *  The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
   *  [Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/)
-  *  7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
+  *  [7 Project ideas for learning Common Lisp](https://www.darkchestnut.com/2016/starter-projects/)
   *  [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
 
 <table>

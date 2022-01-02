@@ -4,8 +4,10 @@
 
 - <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) 
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
+- [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf)
 - Welcome to [schemers.org](https://schemers.org/)!
-- [Common Lisp](https://lisp-lang.org/)
+- [(chez (chez scheme))](https://www.scheme.com/)
+- [Common Lisp](https://lisp-lang.org/) & [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 - [Clojure](https://clojure.org/)
 - [Racket](https://racket-lang.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
@@ -21,13 +23,23 @@
 
 - <img width="150" src="./images/Road.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
-### 工具：
+### 体系：
+
+- [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
+
+- [State of Common Lisp Web Development - an overview](https://lisp-journey.gitlab.io/web-dev/) 2017 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
+
+- [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/) 2019 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
+
+- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译](https://oneforalone.github.io/cl-cookbook-cn/)
 
 - [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment
 
+- [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
+
 - [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp
 
-- Emacs
+- [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 - [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs
 
@@ -39,7 +51,9 @@
   >
   > With Guile you can create applications and games for the [desktop](https://www.gnu.org/software/guile/#apps-using-guile), the [Web](https://www.gnu.org/software/guile/#apps-using-guile), the [command-line](https://www.gnu.org/software/guile/#apps-using-guile), and more.
 
-- [GNU Artanis](https://www.gnu.org/software/artanis/)  is a web application framework(WAF) written in Guile Scheme. [HardenedLinux / artanis](https://gitlab.com/hardenedlinux/artanis)
+- [GNU Artanis](https://www.gnu.org/software/artanis/)  is a web application framework(WAF) written in Guile Scheme. [HardenedLinux / artanis](https://gitlab.com/hardenedlinux/artanis) 
+
+- [Allegro CL](https://franz.com/support/documentation/)
 
 ### 著述:
 
@@ -49,10 +63,9 @@
 - [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
-- 《ANSI Common Lisp》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
+- 《[ANSI Common Lisp Standard Specification Draft 1994 (EN)](https://lisp.com.br/archive/ansi_cl_standard_draft_nice.pdf)》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
 - 《Teach Yourself Scheme in Fixnum Days》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
-- 《The Common Lisp Cookbook》[中文翻译](https://oneforalone.github.io/cl-cookbook-cn/)
 - 《Let Over Lambda》 [中文文档](https://oneforalone.github.io/lol-zh/)
 
 ### Books:
@@ -166,7 +179,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### Forum:
 
-  * [Lisp journey](https://lisp-journey.gitlab.io/)
+  * [Lisp journey](https://lisp-journey.gitlab.io/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
   * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp
   * [Racket News](https://racket-news.com/)
   * [Quicklisp news](http://blog.quicklisp.org/)
@@ -210,7 +223,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 | Edu | Course |  |
 |:--:|:---:|:---:|
-|  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)   |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
+|  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)  |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
+| Simon Fraser University | CMPT 310: [Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/) |  |
 | Cornell | http://www.cs.cornell.edu/~kozen/#Courses | <img width="30" src="https://www.cs.cornell.edu/~kozen/images/photos/Dex16.jpg"> Dexter Kozen |
 | MPI-SWS | Programming Languages, Etc. [Reading Group](https://people.mpi-sws.org/~skilpat/plerg/) (PLERG) | <img width="30" src="https://people.mpi-sws.org/~skilpat/scott-web.jpg"> Scott Kilpatrick |
 |北京大学|[程序设计技术和方法 (教科书SICP)](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) | <img width="30" src="http://news.blcu.edu.cn/__local/A/3B/13/0BC744143BBA7011D4D2D356041_DF26B6B9_22853.jpg"> 2014春季本科生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) 退休 |
@@ -224,10 +238,9 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### 博文:
 
-  *  [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
+  *  Pascal Costanza's Highly Opinionated Guide to Lisp http://www.p-cos.net/lisp/guide.html
   *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html)
   *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
-  *  [Learning Lisp for CMPT 310: Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
   *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
   *  [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)

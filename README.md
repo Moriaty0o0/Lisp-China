@@ -39,11 +39,13 @@
 
 - [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp
 
+- Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. 
+
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 - [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs
 
-- [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp.
+- [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp. [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp
 
 - [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/)
 

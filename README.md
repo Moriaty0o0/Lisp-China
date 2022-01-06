@@ -37,9 +37,11 @@
 
 - [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
 
-- [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp
+- [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 
 - Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. 
+
+- Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
 
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 
@@ -65,6 +67,7 @@
 - [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
+- [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
 - 《[ANSI Common Lisp Standard Specification Draft 1994 (EN)](https://lisp.com.br/archive/ansi_cl_standard_draft_nice.pdf)》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
 - 《Teach Yourself Scheme in Fixnum Days》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
@@ -143,9 +146,7 @@
 
 
 
-《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)
-
-Doug Hoyte 《On《On Lisp》》
+《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
 
 **Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene 1989.
 

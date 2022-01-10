@@ -9,12 +9,13 @@
 - [(chez (chez scheme))](https://www.scheme.com/)
 - [Common Lisp](https://lisp-lang.org/) & [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 - [Clojure](https://clojure.org/)
-- [Racket](https://racket-lang.org/)
+- [Racket](https://racket-lang.org/) ，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
 - [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey <img width="40" src="https://avatars.githubusercontent.com/u/34045?v=4"> ,  2020. 
-- [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74.
+- [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
+- [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
 - [Symbolics Lisp Machine Museum](http://smbx.org/)
@@ -46,6 +47,8 @@
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 - [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs
+
+- [roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
 
 - [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp. [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp
 
@@ -195,7 +198,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### Podcasts:
 
-  * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> 捕蛇者说—Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
+  * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
   * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe), 2014年.
 

@@ -202,9 +202,9 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe), 2014年.
 
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，2016年.https://www.ximalaya.com/keji/4867505/25888083
+  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年.https://www.ximalaya.com/keji/4867505/25888083
 
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），2016年.https://www.ximalaya.com/keji/4867505/19342829
+  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），Clojure编程. 2016年.https://www.ximalaya.com/keji/4867505/19342829
 
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
 
@@ -249,6 +249,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
   *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
+  *  [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
   *  [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)
   *  [Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006)](https://www.cnblogs.com/Leap-abead/articles/762180.html)
   *  [读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)

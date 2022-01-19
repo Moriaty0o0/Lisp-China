@@ -34,7 +34,7 @@
 
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译](https://oneforalone.github.io/cl-cookbook-cn/)
 
-- [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment
+- [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
 
 - [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
 
@@ -46,9 +46,11 @@
 
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 
-- [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs
+- [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs.
 
 - [roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
+
+- [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
 
 - [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp. [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp
 
@@ -169,6 +171,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 **[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)** - Richard P. Gabriel
 
+[The Art of Lisp & Writing](https://dreamsongs.com/ArtOfLisp.html) - Richard P. Gabriel
+
 ### Emacs:
 
   * [Emacs China 社区](https://emacs-china.org/)
@@ -186,12 +190,13 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Forum:
 
   * [Lisp journey](https://lisp-journey.gitlab.io/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-  * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp
+  * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp [YouTube](https://www.youtube.com/channel/UCv33UlfX5S4PKxozGwUY_pA/videos)
+
   * [Racket News](https://racket-news.com/)
   * [Quicklisp news](http://blog.quicklisp.org/)
   * [Planet Lisp](http://planet.lisp.org/)
   * [EmacsConf](https://emacsconf.org)
-  * [European Lisp Symposium](https://european-lisp-symposium.org)
+  * [European Lisp Symposium](https://european-lisp-symposium.org) , [YouTube](https://www.youtube.com/c/EuropeanLispSymposium/videos)
   * [Emacs China](https://emacs-china.org/)
   * [Scheme中文社区](http://theschemer.org/)
   * [Clojure China](http://www.clojurechina.com/zh-cn/)
@@ -200,11 +205,11 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
-  * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe), 2014年.
+  * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
 
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年.https://www.ximalaya.com/keji/4867505/25888083
+  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
 
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），Clojure编程. 2016年.https://www.ximalaya.com/keji/4867505/19342829
+  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），Clojure编程. 2016年. https://www.ximalaya.com/keji/4867505/19342829
 
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
 
@@ -249,6 +254,9 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
   *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
+  *   [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)
+  *  [Can Lisp Macro Change Lisp Syntax?](http://xahlee.info/comp/lisp_syntax_macro_reader.html)
+  *  [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
   *  [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
   *  [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)
   *  [Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006)](https://www.cnblogs.com/Leap-abead/articles/762180.html)
@@ -263,9 +271,12 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
   *  The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
   *  The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
-  *  [Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/)
+  *  [Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/) 
+  *  [Why Clojure?](http://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
   *  [7 Project ideas for learning Common Lisp](https://www.darkchestnut.com/2016/starter-projects/)
   *  [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
+  *  [A practitioner’s guide to reading programming languages papers](https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/) 
+  *  [Learn You a Lambda, a Haskell Tutorial](https://github.com/ninegua/lambda-viewer)
 
 <table>
 <tr>

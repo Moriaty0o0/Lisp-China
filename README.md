@@ -113,11 +113,11 @@
 </tr>
 <tr>
 <th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
-<th><a>Common Lisp the Language, 2nd Edition</a></th>
-<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation</a></th>
+<th><a>Common Lisp the Language, 2nd Edition 图片链接</a></th>
+<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation 图片链接</a></th>
 <th><a>ANSI Common Lisp</a></th>
-<th><a>Practical Common Lisp</a></th>
-<th><a>Let Over Lambda</a></th>
+<th><a>Practical Common Lisp 图片链接</a></th>
+<th><a>Let Over Lambda 图片链接</a></th>
 </tr>
 <tr>
 <td><a href=""><div align=center><img width="125px" src="./images/recipes.jpg/"></div></a>
@@ -129,9 +129,9 @@
 </tr>
 <tr>
 <th><a>实用Common Lisp编程</a></th>
-<th><a>The Common Lisp Cookbook</a></th>
+<th><a>The Common Lisp Cookbook 图片链接</a></th>
 <th><a>The Common Lisp Condition System</a></th> 
-<th><a>The Scheme Programming Language, 4th Edition</a></th>
+<th><a>The Scheme Programming Language, 4th Edition 图片链接</a></th>
 <th><a>Essentials of Programming Languages</a></th>
 <th><a>Scheme and the Art of Programing</a></th>
 </tr>
@@ -143,12 +143,12 @@
 <td><a><div align=center><img width="125px" src="./images/essentials.jpg"></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/scheme.jpg"></a></td>
 </tr>
-<th><a>Programming Languages: Application and Interpretation</a></th>
+<th><a>Programming Languages: Application and Interpretation 图片链接</a></th>
 <th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
 <th><a>Logic Programming in Scheme</a></th>
-<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>
+<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp 图片链接</a>
 </th>
-<th><a>On Lisp: Advanced Techniques for Common Lisp</a></th>
+<th><a>On Lisp: Advanced Techniques for Common Lisp 图片链接</a></th>
 <th><a>Lisp in Small Pieces</a></th>    
 <tr>
 <td><a href="https://papl.cs.brown.edu/"><div align=center><img width="125px" src="./images/Shriram.jpg"/></div></a></td>
@@ -162,6 +162,7 @@
 <tr>
 </tr>
 </table>
+
 
 
 
@@ -186,6 +187,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 **[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)** - Richard P. Gabriel
 
 [The Art of Lisp & Writing](https://dreamsongs.com/ArtOfLisp.html) - Richard P. Gabriel
+
+[Build Your Own Lisp](https://builyouownlisp.com/) & [中文版](https://ksco.gitbooks.io/build-your-own-lisp/) 
 
 ### Emacs:
 
@@ -270,7 +273,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
   *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
-  *   [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)
+  *  [An Intuition for Lisp Syntax](https://stopa.io/post/265)
+  *  [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)
   *  [Can Lisp Macro Change Lisp Syntax?](http://xahlee.info/comp/lisp_syntax_macro_reader.html)
   *  [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
   *  [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)

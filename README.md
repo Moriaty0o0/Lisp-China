@@ -39,7 +39,7 @@
 
 - [Let Over Lambda - 50 Years of Lisp](https://letoverlambda.com/) & [中文文档](https://oneforalone.github.io/lol-zh/index.html) 
 
-- [s-exp syntax](https://www.cliki.net/S-exp syntax) 
+- [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/)
 

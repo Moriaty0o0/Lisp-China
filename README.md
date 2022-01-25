@@ -7,11 +7,11 @@
 - <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) 
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
 - [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf)
-- Welcome to [schemers.org](https://schemers.org/)!
+- Welcome to [schemers.org](https://schemers.org/)!  [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
 - [(chez (chez scheme))](https://www.scheme.com/)
 - [Common Lisp](https://lisp-lang.org/) & [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
-- [Clojure](https://clojure.org/)
-- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)
+- [Clojure](https://clojure.org/) 
+- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
@@ -19,6 +19,7 @@
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
 - [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
+- [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies/)
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
 - [Symbolics Lisp Machine Museum](http://smbx.org/)
 
@@ -36,7 +37,27 @@
 
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译](https://oneforalone.github.io/cl-cookbook-cn/) 
 
-- [Let Over Lambda - 50 Years of Lisp](https://letoverlambda.com/) & [中文文档](https://oneforalone.github.io/lol-zh/index.html)
+- [Let Over Lambda - 50 Years of Lisp](https://letoverlambda.com/) & [中文文档](https://oneforalone.github.io/lol-zh/index.html) 
+
+- [s-exp syntax](https://www.cliki.net/S-exp syntax) 
+
+- [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/)
+
+- [The Common Lisp Foundation](https://cl-foundation.org/)， [Common Lisp Libraries](https://common-lisp.net/libraries)
+
+- [Planet Lisp](http://planet.lisp.org/) is a meta blog that collects the contents of various Lisp-related blogs.
+
+  - [Planet Scheme](https://planet.scheme.org/) collects blog posts from individuals and projects around the Scheme community.
+
+  - [Planet SBCL](http://planet.sbcl.org/) s a meta blog that collects the contents of various SBCL-related blogs.
+
+  - [Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
+
+  - [Quicklisp news](http://blog.quicklisp.org/)
+
+  - [Racket News](https://racket-news.com/)
+
+  - [Racket Stories](https://racket-stories.com/)
 
 - [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
 
@@ -44,7 +65,7 @@
 
 - [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
 
-- [Clozure Common Lisp](https://ccl.clozure.com/)
+- [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
 
 - [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 
@@ -52,7 +73,7 @@
 
 - Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
 
-- [GNU Emacs](https://www.gnu.org/software/emacs/) 
+- [GNU Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, [free/libre](https://www.gnu.org/philosophy/free-sw.html) text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 
 - [Lisp Style and Efficiency](https://www.cs.utexas.edu/users/novak/lispeff.html)
 
@@ -208,10 +229,6 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   * [Lisp journey](https://lisp-journey.gitlab.io/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
   * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp [YouTube](https://www.youtube.com/channel/UCv33UlfX5S4PKxozGwUY_pA/videos)
-
-  * [Racket News](https://racket-news.com/)
-  * [Quicklisp news](http://blog.quicklisp.org/)
-  * [Planet Lisp](http://planet.lisp.org/)
   * [EmacsConf](https://emacsconf.org)
   * [European Lisp Symposium](https://european-lisp-symposium.org) , [YouTube](https://www.youtube.com/c/EuropeanLispSymposium/videos)
   * [Emacs China](https://emacs-china.org/)
@@ -279,7 +296,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
   *  [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
   *  [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)
-  *  [Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006)](https://www.cnblogs.com/Leap-abead/articles/762180.html)
+  *  [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) 2006 & [Lisp的本质](https://www.cnblogs.com/Leap-abead/articles/762180.html)
   *  [读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
   *  [Lisp之根源(Paul Graham: The Roots of Lisp.May,2001)](https://www.cnblogs.com/Leap-abead/articles/762226.html)
   *  [跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007)](https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author)

@@ -47,17 +47,17 @@
 
 - [Planet Lisp](http://planet.lisp.org/) is a meta blog that collects the contents of various Lisp-related blogs.
 
-  - [Planet Scheme](https://planet.scheme.org/) collects blog posts from individuals and projects around the Scheme community.
+- [Planet Scheme](https://planet.scheme.org/) collects blog posts from individuals and projects around the Scheme community.
 
-  - [Planet SBCL](http://planet.sbcl.org/) s a meta blog that collects the contents of various SBCL-related blogs.
+- [Planet SBCL](http://planet.sbcl.org/) s a meta blog that collects the contents of various SBCL-related blogs.
 
-  - [Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
+- [Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
 
-  - [Quicklisp news](http://blog.quicklisp.org/)
+- [Quicklisp news](http://blog.quicklisp.org/)
 
-  - [Racket News](https://racket-news.com/)
+- [Racket News](https://racket-news.com/)
 
-  - [Racket Stories](https://racket-stories.com/)
+- [Racket Stories](https://racket-stories.com/)
 
 - [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
 

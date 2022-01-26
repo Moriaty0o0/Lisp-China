@@ -14,6 +14,7 @@
 - [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
+- [Common Lisp Object System](https://dreamsongs.com/CLOS.html)
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
 - [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey <img width="40" src="https://avatars.githubusercontent.com/u/34045?v=4"> ,  2020. 
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
@@ -27,7 +28,7 @@
 
 - <img width="150" src="./images/Road.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
-### 生态：
+### 生态：https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5
 
 - [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
 
@@ -97,15 +98,22 @@
 
 - [Allegro CL](https://franz.com/support/documentation/) 
 
-- [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html)
+- [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
+
+- [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
+
+- [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
+
+- [Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
 
 ### 著述:
 
 - 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
 - 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
 - [Nils M Holm's Ephemeralia](https://t3x.org/)
-- [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚
-- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/)
+- [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚 [R5RS](https://schemers.org/Documents/Standards/R5RS/)
+- [R6RS](http://www.r6rs.org/)
+- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)

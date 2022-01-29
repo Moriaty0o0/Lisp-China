@@ -38,13 +38,19 @@
 
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译](https://oneforalone.github.io/cl-cookbook-cn/) 
 
-- [Let Over Lambda - 50 Years of Lisp](https://letoverlambda.com/) & [中文文档](https://oneforalone.github.io/lol-zh/index.html) 
+- [Let Over Lambda](https://letoverlambda.com/) & [中文文档](https://oneforalone.github.io/lol-zh/index.html) 
 
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 
-- [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/)
+- [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
 
-- [The Common Lisp Foundation](https://cl-foundation.org/)， [Common Lisp Libraries](https://common-lisp.net/libraries)
+- <img width="50" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) 
+
+- [ROS](https://wiki.ros.org/roslisp) 是一个构建机器人及应用的操作系统，主要目标是为机器人研究和开发提供代码复用的支持。
+
+- [The Common Lisp Foundation](https://cl-foundation.org/)， [Common Lisp Libraries](https://common-lisp.net/libraries) 
+
+- [LambdaNative](https://www.lambdanative.org/) is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt.
 
 - [Planet Lisp](http://planet.lisp.org/) is a meta blog that collects the contents of various Lisp-related blogs.
 
@@ -104,7 +110,11 @@
 
 - [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
 
+- [Embeddable Common-Lisp](https://ecl.common-lisp.dev/) is an interpreter of the Common-Lisp language as described in the X3J13 Ansi specification, featuring CLOS (Common-Lisp Object System), conditions, loops, etc, plus a translator to C, which can produce standalone executables.
+
 - [Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
+
+- [whirlog](https://github.com/codr7/whirlog) a minimal versioned log structured relational DB in Common Lisp
 
 ### 著述:
 
@@ -121,37 +131,37 @@
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
 - 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
 
-### Books:
+### Books: 
 
 <table>
 <tr>
-    <th><a>The Little LISPer</a></th>
-    <th><a>The Little Schemer</a></th>
-    <th><a>The Little MLer</a></th>
-    <th><a>The Little Java, A Few Petterns</a></th>
-    <th><a>The Little Prover</a></th>
-    <th><a>The Little Typer</a></th>
+<th><a>The Little LISPer</a></th>
+<th><a>The Little Schemer</a></th>
+<th><a>The Little MLer</a></th>
+<th><a>The Little Java, A Few Petterns</a></th>
+<th><a>The Little Prover</a></th>
+<th><a>The Little Typer</a></th>
 </tr>
 <tr>
-    <td><a><img width="125px" src="./images/Lisper.jpg"></a></td>
-    <td><a><img width="125px" src="./images/Schemer.jpg"></a></td>
-    <td><a><img width="125px" src="./images/MLer.jpg"></a></td>
-    <td><a><div align=center><img width="125px" src="./images/Java.jpg"></div></a></td>
-    <td><a><img width="125px" src="./images/Prover.jpg"></a></td>
-    <td><a><img width="125px" src="./images/Typer.jpg"></a></td>
+<td><a><img width="125px" src="./images/Lisper.jpg"></a></td>
+<td><a><img width="125px" src="./images/Schemer.jpg"></a></td>
+<td><a><img width="125px" src="./images/MLer.jpg"></a></td>
+<td><a><div align=center><img width="125px" src="./images/Java.jpg"></div></a></td>
+<td><a><img width="125px" src="./images/Prover.jpg"></a></td>
+<td><a><img width="125px" src="./images/Typer.jpg"></a></td>
 </tr>
 <tr>
 <th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
+<th><a>Programming Algorithms in Lisp 图片链接</a></th>
 <th><a>Common Lisp the Language, 2nd Edition 图片链接</a></th>
-<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation 图片链接</a></th>
 <th><a>ANSI Common Lisp</a></th>
 <th><a>Practical Common Lisp 图片链接</a></th>
 <th><a>Let Over Lambda 图片链接</a></th>
 </tr>
 <tr>
 <td><a href=""><div align=center><img width="125px" src="./images/recipes.jpg/"></div></a>
+<td><a href="https://github.com/Apress/programming-algorithms-lisp"><div align=center><img width="125px" src="./images/algorithms.jpeg/"></div></a>
 <td><a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html"><div align=center><img width="125px" src="./images/CL.jpg"/></div></a></td>
-<td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="125px" src="./images/Symbolic.jpg"/></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/ANSI.jpg"/></div></a></td>
 <td><a href="http://www.gigamonkeys.com/book/"><div align=center><img width="125px" src="./images/practical.jpg"/></div></a></td>
 <td><a href="https://letoverlambda.com/"><div align=center><img width="125px" src="./images/LetOverLambda.jpg"></div></a></td>
@@ -175,22 +185,23 @@
 <th><a>Programming Languages: Application and Interpretation 图片链接</a></th>
 <th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
 <th><a>Logic Programming in Scheme</a></th>
-<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp 图片链接</a>
-</th>
+<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp 图片链接</a></th>
 <th><a>On Lisp: Advanced Techniques for Common Lisp 图片链接</a></th>
 <th><a>Lisp in Small Pieces</a></th>    
 <tr>
 <td><a href="https://papl.cs.brown.edu/"><div align=center><img width="125px" src="./images/Shriram.jpg"/></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/successful.jpg"/></div></a>
-</td>
+<td><a><div align=center><img width="125px" src="./images/successful.jpg"/></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/logic.png"/></div></a></td>
 <td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="125px" src="./images/AI.jpg"></div></a></td>
 <td><a href="http://paulgraham.com/onlisptext.html"><div align=center><img width="125px" src="./images/onlisp.jpg"></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/Small.jpg"></div></a></td>
 </tr>
+<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation 图片链接</a></th>
 <tr>
+<td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="125px" src="./images/Symbolic.jpg"/></div></a></td>
 </tr>
 </table>
+
 
 
 
@@ -280,11 +291,12 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 | Simon Fraser University | CMPT 310: [Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/) |  |
 | Cornell | http://www.cs.cornell.edu/~kozen/#Courses | <img width="30" src="https://www.cs.cornell.edu/~kozen/images/photos/Dex16.jpg"> Dexter Kozen |
 | MPI-SWS | Programming Languages, Etc. [Reading Group](https://people.mpi-sws.org/~skilpat/plerg/) (PLERG) | <img width="30" src="https://people.mpi-sws.org/~skilpat/scott-web.jpg"> Scott Kilpatrick |
-|北京大学Latest|[程序设计技术和方法 (教科书SICP)](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) | <img width="30" src="http://news.blcu.edu.cn/__local/A/3B/13/0BC744143BBA7011D4D2D356041_DF26B6B9_22853.jpg"> 2014春季本科生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) 退休 |
+|北京大学|[程序设计技术和方法 (教科书SICP)](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) | <img width="30" src="http://news.blcu.edu.cn/__local/A/3B/13/0BC744143BBA7011D4D2D356041_DF26B6B9_22853.jpg"> 2014春季本科生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) 退休 |
 | 北京大学 |[程序设计语言原理]((http://www.math.pku.edu.cn/teachers/qiuzy/plan/)) (主要参考书:《程序设计语言——实践之路》[文献汇编](http://www.math.pku.edu.cn/teachers/qiuzy/plan/lits/index.htm)  | <img width="30" src="http://news.blcu.edu.cn/__local/A/3B/13/0BC744143BBA7011D4D2D356041_DF26B6B9_22853.jpg"> 2012 研究生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) 退休 |
 | 南京大学 | Structure and Interpretation of Computer Programs  | <img width="30" src="https://cs.nju.edu.cn/xyfeng/fxy.jpg"> [冯新宇](https://cs.nju.edu.cn/xyfeng/) |
 | 南京大学 | 程序设计语言的形式语义 (Formal Semantics of Programming Languages）  | <img width="30" src="https://cs.nju.edu.cn/hongjin/me.png"> [梁红瑾](https://cs.nju.edu.cn/hongjin/) |
 | uwaterloo.ca | Teach Yourself Racket | https://cs.uwaterloo.ca/~plragde/flaneries/TYR/ |
+| edx.org | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | <img width="35" src="https://www.cs.ubc.ca/sites/default/files/styles/profile_page/public/people/gregor-kiczales.jpg"> [Gregor Kiczales](https://www.cs.ubc.ca/people/gregor-kiczales) |
 
 ### Journal:
 

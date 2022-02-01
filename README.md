@@ -297,6 +297,10 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 | 南京大学 | 程序设计语言的形式语义 (Formal Semantics of Programming Languages）  | <img width="30" src="https://cs.nju.edu.cn/hongjin/me.png"> [梁红瑾](https://cs.nju.edu.cn/hongjin/) |
 | uwaterloo.ca | Teach Yourself Racket | https://cs.uwaterloo.ca/~plragde/flaneries/TYR/ |
 | edx.org | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | <img width="35" src="https://www.cs.ubc.ca/sites/default/files/styles/profile_page/public/people/gregor-kiczales.jpg"> [Gregor Kiczales](https://www.cs.ubc.ca/people/gregor-kiczales) |
+| Nottingham | Functional Programming in Haskell [bilibili](https://www.bilibili.com/video/BV1ti4y1P7TF) | [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) |
+| Brown | [Programming and Programming Languages](https://papl.cs.brown.edu/2020/) | Shriram Krishnamurthi ... |
+| Harvard | [History of Programming Languages](https://groups.seas.harvard.edu/courses/cs252/2016fa/) | Christos Dimoulas |
+| Syracuse | [Programming Languages: Theory and Practice](http://www.cis.syr.edu/courses/cis352/) |  |
 
 ### Journal:
 
@@ -334,6 +338,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
   *  [A practitioner’s guide to reading programming languages papers](https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/) 
   *  [Learn You a Lambda, a Haskell Tutorial](https://github.com/ninegua/lambda-viewer)
+
+### 附：
 
 <table>
 <tr>

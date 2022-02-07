@@ -104,6 +104,10 @@
 
 - [Allegro CL](https://franz.com/support/documentation/) 
 
+- [Corman Lisp](https://github.com/sharplispers/cormanlisp) is a Common Lisp development environment for Microsoft Windows operating systems running on Intel platforms. Corman Lisp consists of a Common Lisp native code compiler for Intel processors, 80x86 assembler and disassembler, incremental linker and multi-window text editor. It requires a system running a Microsoft Windows operating system (such as Windows XP, Windows 2000, Windows ME or Windows NT). It is fully integrated with the Win32 API, and all the Windows API functions are readily available from Lisp.
+
+- [cl-ppcre](https://github.com/edicl/cl-ppcre) Common Lisp regular expression library
+
 - [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
 
 - [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)

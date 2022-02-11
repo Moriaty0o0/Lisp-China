@@ -18,7 +18,7 @@
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
 - [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey <img width="40" src="https://avatars.githubusercontent.com/u/34045?v=4"> ,  2020. 
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
-- [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
+- [Technical Issues of Separation in Function Cells and Value Cells](https://dreamsongs.com/Separation.html) , [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
 - [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies/)
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
@@ -279,7 +279,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Video:
 
   * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
-  * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
+  * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/ ; Eli Bendersky : [SICP](https://eli.thegreenplace.net/tag/sicp) 
   * Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/) [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
   * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [bilibili](https://www.bilibili.com/video/av32496013/) [youtube](https://www.youtube.com/watch?v=IHP7P_HlcBk)
   * Little Bits of Lisp [bilibili](https://www.bilibili.com/video/BV15J411J7Aw) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [bilibili](https://www.bilibili.com/video/BV1K7411v7bj) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS) 

@@ -14,7 +14,7 @@
 - [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
-- [Common Lisp Object System](https://dreamsongs.com/CLOS.html)
+- [Common Lisp Object System](https://dreamsongs.com/CLOS.html) ※ Richard P. Gabriel
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
 - [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey <img width="40" src="https://avatars.githubusercontent.com/u/34045?v=4"> ,  2020. 
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 

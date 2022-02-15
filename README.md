@@ -42,6 +42,8 @@
 
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 
+- [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
+
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
 
 - <img width="50" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) 
@@ -86,6 +88,8 @@
 
 - [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs.
 
+- [Sly：Sylvester the Cat's Common Lisp IDE](https://joaotavora.github.io/sly/)
+
 - [roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
 
 - [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
@@ -122,6 +126,8 @@
 
 - [LISP In Summer Projects](http://www.lispinsummerprojects.org/) 
 
+- [RUNNING MCCLIM AND OTHER LISP PACKAGES ON WINDOWS](https://egao1980.github.io/cl-blog/posts/Running-McCLIM-and-other-Lisp-packages-on-Windows.html)
+
 ### 著述:
 
 - 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
@@ -136,6 +142,7 @@
 - 《[ANSI Common Lisp Standard Specification Draft 1994 (EN)](https://lisp.com.br/archive/ansi_cl_standard_draft_nice.pdf)》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
 - 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
+- [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
 
 ### Books: 

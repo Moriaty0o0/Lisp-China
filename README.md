@@ -6,10 +6,10 @@
 
 - <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) 
 - [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
-- [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf)
+- [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf) 
 - Welcome to [schemers.org](https://schemers.org/)!  [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
 - [(chez (chez scheme))](https://www.scheme.com/)
-- [Common Lisp](https://lisp-lang.org/) & [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
+- [Common Lisp](https://lisp-lang.org/) 
 - [Clojure](https://clojure.org/) 
 - [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
@@ -24,9 +24,9 @@
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
 - [Symbolics Lisp Machine Museum](http://smbx.org/)
 
-### 学习路径:
+### 学习路径：
 
-- <img width="150" src="./images/Road.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+- <img width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
 ### 生态：
 
@@ -35,6 +35,8 @@
 - [State of Common Lisp Web Development - an overview](https://lisp-journey.gitlab.io/web-dev/) 2017 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
 
 - [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/) 2019 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
+
+- 👍  [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译](https://oneforalone.github.io/cl-cookbook-cn/) 
 
@@ -128,7 +130,7 @@
 
 - [RUNNING MCCLIM AND OTHER LISP PACKAGES ON WINDOWS](https://egao1980.github.io/cl-blog/posts/Running-McCLIM-and-other-Lisp-packages-on-Windows.html)
 
-### 著述:
+### 著述：
 
 - 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
 - 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
@@ -145,7 +147,7 @@
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
 
-### Books: 
+### Books：
 
 <table>
 <tr>
@@ -244,7 +246,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 [Build Your Own Lisp](https://builyouownlisp.com/) & [中文版](https://ksco.gitbooks.io/build-your-own-lisp/) 
 
-### Emacs:
+### Emacs：
 
   * [Emacs China 社区](https://emacs-china.org/)
   * [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目
@@ -258,7 +260,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * [Emacs Docs](https://www.emacsdocs.org/)
   * [MELPA](https://melpa.org/)
 
-### Forum:
+### Forum：
 
   * [Lisp journey](https://lisp-journey.gitlab.io/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
   * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp [YouTube](https://www.youtube.com/channel/UCv33UlfX5S4PKxozGwUY_pA/videos)
@@ -268,7 +270,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * [Scheme中文社区](http://theschemer.org/)
   * [Clojure China](http://www.clojurechina.com/zh-cn/)
 
-### Podcasts:
+### Podcasts：
 
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
@@ -286,7 +288,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
 
-### Video:
+### Video：
 
   * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
   * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/ ; Eli Bendersky : [SICP](https://eli.thegreenplace.net/tag/sicp) 
@@ -297,7 +299,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
   * [Readable Lisp S-expressions Project](https://readable.sourceforge.io/)
 
-### 课程:
+### 课程：
 
 | Edu | Course |  |
 |:--:|:---:|:---:|
@@ -316,11 +318,11 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 | Harvard | [History of Programming Languages](https://groups.seas.harvard.edu/courses/cs252/2016fa/) | Christos Dimoulas |
 | Syracuse | [Programming Languages: Theory and Practice](http://www.cis.syr.edu/courses/cis352/) |  |
 
-### Journal:
+### Journal：
 
   *  [Lisp and Symbolic Computation / Higher-Order and Symbolic Computation](https://dblp.org/db/journals/lisp/index.html)
 
-### 博文:
+### 博文：
 
   *  Pascal Costanza's Highly Opinionated Guide to Lisp http://www.p-cos.net/lisp/guide.html
   *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 

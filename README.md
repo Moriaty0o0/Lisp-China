@@ -4,14 +4,14 @@
 
 ### History:
 
-- <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) 
-- [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
+- <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) : [History of Lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
+- <img width="35" src="https://computerhistory.org/wp-content/themes/bsdstarter/assets/img/chm-logo-text.svg"> [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
 - [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf) 
 - Welcome to [schemers.org](https://schemers.org/)!  [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
 - [(chez (chez scheme))](https://www.scheme.com/)
 - [Common Lisp](https://lisp-lang.org/) 
 - [Clojure](https://clojure.org/) 
-- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
+- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 - [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
 - [Common Lisp Object System](https://dreamsongs.com/CLOS.html) ※ Richard P. Gabriel
@@ -44,11 +44,23 @@
 
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 
+- [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
+
 - [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
 
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
 
 - <img width="50" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) 
+
+- [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
+
+- [Common Lisp in Practice](http://atomized.org/blog/2020/07/06/common-lisp-in-practice/)
+
+- 👉 [How I got started with Common Lisp in 2017](https://anticrisis.github.io/2017/09/04/how-i-got-started-with-common-lisp-2017.html)
+
+- [Roguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
+
+- [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP)
 
 - [ROS](https://wiki.ros.org/roslisp) 是一个构建机器人及应用的操作系统，主要目标是为机器人研究和开发提供代码复用的支持。
 
@@ -78,7 +90,7 @@
 
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
 
-- [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
+- 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 
 - Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. 
 
@@ -116,7 +128,7 @@
 
 - [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
 
-- [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
+- 👉 [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
 
 - [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
 
@@ -137,7 +149,7 @@
 - [Nils M Holm's Ephemeralia](https://t3x.org/)
 - [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚 [R5RS](https://schemers.org/Documents/Standards/R5RS/)
 - [R6RS](http://www.r6rs.org/)
-- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md)
+- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) & [R7RS Index](https://r7rsindex.com/)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
@@ -146,8 +158,6 @@
 - 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
-
-### Books：
 
 <table>
 <tr>
@@ -248,6 +258,8 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### Emacs：
 
+- [22 years of Emacs](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/)
+
   * [Emacs China 社区](https://emacs-china.org/)
   * [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目
   * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua
@@ -273,20 +285,17 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 ### Podcasts：
 
   * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
-
   * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
-
   * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
-
   * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），Clojure编程. 2016年. https://www.ximalaya.com/keji/4867505/19342829
-
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
-
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
-
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
-
   * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
+  *  CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/023/action-320-8edb6f3e2.webp"> [The Little Typer](https://corecursive.com/023-little-typer-and-pie-language/) with Dan Friedman and David Christiansen
+  * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/021/action-320-8af59caee.webp"> [God's Programming Language](https://corecursive.com/021-gods-programming-language-with-philip-wadler/) with Philip Wadler
+
+  * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/039/action-320-ae1f55081.webp"> [Language Oriented Design](https://corecursive.com/039-hal-abelson-sicp/#scheme) discussing SICP with Hal Abelson
 
 ### Video：
 
@@ -304,6 +313,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 | Edu | Course |  |
 |:--:|:---:|:---:|
 |  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)  |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
+| MIT | [Dynamic Languages Group](http://www.ai.mit.edu/projects/dynlangs/) |  |
 | Simon Fraser University | CMPT 310: [Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/) |  |
 | Cornell | http://www.cs.cornell.edu/~kozen/#Courses | <img width="30" src="https://www.cs.cornell.edu/~kozen/images/photos/Dex16.jpg"> Dexter Kozen |
 | MPI-SWS | Programming Languages, Etc. [Reading Group](https://people.mpi-sws.org/~skilpat/plerg/) (PLERG) | <img width="30" src="https://people.mpi-sws.org/~skilpat/scott-web.jpg"> Scott Kilpatrick |
@@ -324,11 +334,14 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### 博文：
 
+  *  [A Retrospective on Paradigms of AI Programming](https://norvig.com/Lisp-retro.html)
+  *  [Python for Lisp Programmers](https://norvig.com/python-lisp.html)
+  *  [Lisp with Macros is Two Languages](https://ericnormand.me/article/lisp-with-macros-language-stack)
   *  Pascal Costanza's Highly Opinionated Guide to Lisp http://www.p-cos.net/lisp/guide.html
   *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
   *  [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
   *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
-  *  [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
+  *  👉 [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
   *  [An Intuition for Lisp Syntax](https://stopa.io/post/265)
   *  [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)

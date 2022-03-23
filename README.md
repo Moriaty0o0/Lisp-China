@@ -44,6 +44,8 @@
 
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 
+- [The evolution of a Scheme programmer](https://erkin.party/blog/200715/evolution/) 
+
 - [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
 
 - [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
@@ -88,7 +90,11 @@
 
 - [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
 
+- [CHICKEN Scheme](https://call-cc.org/) a practical and portable scheme system
+
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
+
+- [Akku.scm - Scheme package manager](https://akkuscm.org/)
 
 - 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 
@@ -258,8 +264,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### Emacs：
 
-- [22 years of Emacs](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/)
-
+  * [22 years of Emacs](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/)  
   * [Emacs China 社区](https://emacs-china.org/)
   * [EmacsTalk](https://emacstalk.github.io/) 一档专注在 Emacs 社区的程序员闲聊节目
   * [Emacs News](https://sachachua.com/blog/) 📰 Sacha Chua

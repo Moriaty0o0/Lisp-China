@@ -20,6 +20,7 @@
 - [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
 - [Technical Issues of Separation in Function Cells and Value Cells](https://dreamsongs.com/Separation.html) , [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
+- [A few things I know about LISP Machines](http://fare.tunes.org/LispM.html)
 - [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies/)
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
 - [Symbolics Lisp Machine Museum](http://smbx.org/)
@@ -35,6 +36,8 @@
 - [State of Common Lisp Web Development - an overview](https://lisp-journey.gitlab.io/web-dev/) 2017 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
 
 - [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/) 2019 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
+
+- [Common Lisp: An short introduction on most interesting parts](https://github.com/alaskasquirrel/Lisp-China/blob/master/PDF/%E3%80%88Common%20Lisp%EF%BC%9AAn%20short%20introduction%20on%20most%20interesting%20parts%E3%80%89%20%EF%BC%88%E7%94%B0%E6%98%A5%E5%88%B6%EF%BC%892012%E5%B9%B410%E6%9C%88%20%E6%B5%99%E5%A4%A7%E8%AE%B2%E5%BA%A7PPT.pdf) 田春(冰河) 2012年10月 浙大讲座PPT
 
 - 👍  [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 
@@ -98,7 +101,7 @@
 
 - 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 
-- Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. 
+- Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. [SBCL: a Sanely-Bootstrappable Common Lisp]()
 
 - Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
 
@@ -199,7 +202,7 @@
 <td><a href="https://letoverlambda.com/"><div align=center><img width="125px" src="./images/LetOverLambda.jpg"></div></a></td>
 </tr>
 <tr>
-<th><a>实用Common Lisp编程</a></th>
+<th><a>实用Common Lisp编程 图片链接</a></th>
 <th><a>The Common Lisp Cookbook 图片链接</a></th>
 <th><a>The Common Lisp Condition System</a></th> 
 <th><a>The Scheme Programming Language, 4th Edition 图片链接</a></th>
@@ -207,7 +210,7 @@
 <th><a>Scheme and the Art of Programing</a></th>
 </tr>
 <tr>
-<td><a><div align=center><img width="125px" src="./images/实用.jpg"/></div></a></td>
+<td><a href="https://binghe.github.io/pcl-cn/"><div align=center><img width="125px" src="./images/实用.jpg"/></div></a></td>
 <td><a href="https://lispcookbook.github.io/cl-cookbook/"><div align=center><img width="125px" src="./images/cookbook.png"/></div></a></td>
 <td><a href=""><div align=center><img width="125px" src="./images/Condition.jpg"/></div></a></td>
 <td><a href="https://www.scheme.com/tspl4"><div align=center><img width="125px" src="./images/Scheme4.jpg"></div></a></td>
@@ -233,6 +236,7 @@
 <td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="125px" src="./images/Symbolic.jpg"/></div></a></td>
 </tr>
 </table>
+
 
 
 
@@ -341,6 +345,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
   *  [A Retrospective on Paradigms of AI Programming](https://norvig.com/Lisp-retro.html)
   *  [Python for Lisp Programmers](https://norvig.com/python-lisp.html)
+  *  [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
   *  [Lisp with Macros is Two Languages](https://ericnormand.me/article/lisp-with-macros-language-stack)
   *  Pascal Costanza's Highly Opinionated Guide to Lisp http://www.p-cos.net/lisp/guide.html
   *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 

@@ -7,6 +7,7 @@
 - <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) : [History of Lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 - <img width="35" src="https://computerhistory.org/wp-content/themes/bsdstarter/assets/img/chm-logo-text.svg"> [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
 - [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf) 
+- [LISP 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view)
 - Welcome to [schemers.org](https://schemers.org/)!  [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
 - [(chez (chez scheme))](https://www.scheme.com/)
 - [Common Lisp](https://lisp-lang.org/) 
@@ -27,7 +28,7 @@
 
 ### 学习路径：
 
-- <img width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+- <img width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
 ### 生态：
 
@@ -41,9 +42,9 @@
 
 - 👍  [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 
-- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译](https://oneforalone.github.io/cl-cookbook-cn/) 
+- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译 Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn/) 
 
-- [Let Over Lambda](https://letoverlambda.com/) & [中文文档](https://oneforalone.github.io/lol-zh/index.html) 
+- [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
 
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 
@@ -63,7 +64,7 @@
 
 - 👉 [How I got started with Common Lisp in 2017](https://anticrisis.github.io/2017/09/04/how-i-got-started-with-common-lisp-2017.html)
 
-- [Roguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
+- [ForumRoguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
 
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP)
 
@@ -162,9 +163,9 @@
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
-- 《[ANSI Common Lisp Standard Specification Draft 1994 (EN)](https://lisp.com.br/archive/ansi_cl_standard_draft_nice.pdf)》[中文翻譯版](https://acl.readthedocs.io/en/latest/)
+- 《[ANSI Common Lisp Standard Specification Draft 1994 (EN)](https://lisp.com.br/archive/ansi_cl_standard_draft_nice.pdf)》[中文翻譯版 Chinese](https://acl.readthedocs.io/en/latest/)
 - 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
-- 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译](https://songjinghe.github.io/TYS-zh-translation/) 
+- 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译 Chinese simplified](https://songjinghe.github.io/TYS-zh-translation/) 
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
 
@@ -242,11 +243,11 @@
 
 
 
-《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
+《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
 
 **Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene 1989.
 
-**ANSI Common Lisp** Paul Graham [中文翻译](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
+**ANSI Common Lisp** Paul Graham [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
 
 **Learning to Program in LISP** John R.Anderson, Robert Farrell and Ron Sauers. Carnegie-Mellon University. Cognitive Science 8,87-129(1984).
 
@@ -264,7 +265,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 [The Art of Lisp & Writing](https://dreamsongs.com/ArtOfLisp.html) - Richard P. Gabriel
 
-[Build Your Own Lisp](https://builyouownlisp.com/) & [中文版](https://ksco.gitbooks.io/build-your-own-lisp/) 
+[Build Your Own Lisp](https://builyouownlisp.com/) & [中文版 Chinese simplified](https://ksco.gitbooks.io/build-your-own-lisp/) 
 
 ### Emacs：
 
@@ -378,7 +379,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [A practitioner’s guide to reading programming languages papers](https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/) 
   *  [Learn You a Lambda, a Haskell Tutorial](https://github.com/ninegua/lambda-viewer)
 
-### 附：
+*****
 
 <table>
 <tr>

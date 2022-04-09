@@ -68,6 +68,8 @@
 
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP)
 
+- 👍 [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) Grammarly Engineering Blog
+
 - [ROS](https://wiki.ros.org/roslisp) 是一个构建机器人及应用的操作系统，主要目标是为机器人研究和开发提供代码复用的支持。
 
 - [The Common Lisp Foundation](https://cl-foundation.org/)， [Common Lisp Libraries](https://common-lisp.net/libraries) 
@@ -94,6 +96,8 @@
 
 - [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
 
+- [Gauche](https://practical-scheme.net/gauche/) A Scheme Implementation
+
 - [CHICKEN Scheme](https://call-cc.org/) a practical and portable scheme system
 
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
@@ -114,7 +118,7 @@
 
 - [Sly：Sylvester the Cat's Common Lisp IDE](https://joaotavora.github.io/sly/)
 
-- [roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
+- [Roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
 
 - [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
 
@@ -168,6 +172,7 @@
 - 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译 Chinese simplified](https://songjinghe.github.io/TYS-zh-translation/) 
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
+- [Scheme Lisp - Feel the Cool](http://www.artificialworlds.net/presentations/scheme-accu2018/scheme-accu2018.pdf) (PDF) Andy Balaam.
 
 <table>
 <tr>
@@ -187,59 +192,52 @@
 <td><a><img width="125px" src="./images/Typer.jpg"></a></td>
 </tr>
 <tr>
+<th><a>The Scheme Programming Language, 4th Edition 图片链接</a></th>
+<th><a>Essentials of Programming Languages</a></th>
+<th><a>Scheme and the Art of Programing</a></th>
+<th><a>Logic Programming in Scheme</a></th>
+<th><a>Lisp in Small Pieces</a></th>   
 <th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
+</tr>
+<tr>
+<td><a href="https://www.scheme.com/tspl4"><div align=center><img width="125px" src="./images/Scheme4.jpg"></div></a></td>
+<td><a><div align=center><img width="125px" src="./images/essentials.jpg"></div></a></td>
+<td><a><div align=center><img width="125px" src="./images/scheme.jpg"></a></td>
+<td><a><div align=center><img width="125px" src="./images/logic.png"/></div></a></td>
+<td><a><div align=center><img width="125px" src="./images/Small.jpg"></div></a></td>
+<td><a href=""><div align=center><img width="125px" src="./images/recipes.jpg/"></div></a>
+</tr>
+<tr>
 <th><a>Programming Algorithms in Lisp 图片链接</a></th>
 <th><a>Common Lisp the Language, 2nd Edition 图片链接</a></th>
 <th><a>ANSI Common Lisp</a></th>
 <th><a>Practical Common Lisp 图片链接</a></th>
+<th><a>On Lisp: Advanced Techniques for Common Lisp 图片链接</a></th>
 <th><a>Let Over Lambda 图片链接</a></th>
 </tr>
 <tr>
-<td><a href=""><div align=center><img width="125px" src="./images/recipes.jpg/"></div></a>
 <td><a href="https://github.com/Apress/programming-algorithms-lisp"><div align=center><img width="125px" src="./images/algorithms.jpeg/"></div></a>
 <td><a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html"><div align=center><img width="125px" src="./images/CL.jpg"/></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/ANSI.jpg"/></div></a></td>
 <td><a href="http://www.gigamonkeys.com/book/"><div align=center><img width="125px" src="./images/practical.jpg"/></div></a></td>
+<td><a href="http://paulgraham.com/onlisptext.html"><div align=center><img width="125px" src="./images/onlisp.jpg"></div></a></td>
 <td><a href="https://letoverlambda.com/"><div align=center><img width="125px" src="./images/LetOverLambda.jpg"></div></a></td>
 </tr>
 <tr>
 <th><a>实用Common Lisp编程 图片链接</a></th>
 <th><a>The Common Lisp Cookbook 图片链接</a></th>
 <th><a>The Common Lisp Condition System</a></th> 
-<th><a>The Scheme Programming Language, 4th Edition 图片链接</a></th>
-<th><a>Essentials of Programming Languages</a></th>
-<th><a>Scheme and the Art of Programing</a></th>
+<th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
+<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp 图片链接</a></th>
+<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation 图片链接</a></th>
 </tr>
 <tr>
 <td><a href="https://binghe.github.io/pcl-cn/"><div align=center><img width="125px" src="./images/实用.jpg"/></div></a></td>
 <td><a href="https://lispcookbook.github.io/cl-cookbook/"><div align=center><img width="125px" src="./images/cookbook.png"/></div></a></td>
 <td><a href=""><div align=center><img width="125px" src="./images/Condition.jpg"/></div></a></td>
-<td><a href="https://www.scheme.com/tspl4"><div align=center><img width="125px" src="./images/Scheme4.jpg"></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/essentials.jpg"></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/scheme.jpg"></a></td>
-</tr>
-<th><a>Programming Languages: Application and Interpretation 图片链接</a></th>
-<th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
-<th><a>Logic Programming in Scheme</a></th>
-<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp 图片链接</a></th>
-<th><a>On Lisp: Advanced Techniques for Common Lisp 图片链接</a></th>
-<th><a>Lisp in Small Pieces</a></th>    
-<tr>
-<td><a href="https://papl.cs.brown.edu/"><div align=center><img width="125px" src="./images/Shriram.jpg"/></div></a></td>
 <td><a><div align=center><img width="125px" src="./images/successful.jpg"/></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/logic.png"/></div></a></td>
 <td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="125px" src="./images/AI.jpg"></div></a></td>
-<td><a href="http://paulgraham.com/onlisptext.html"><div align=center><img width="125px" src="./images/onlisp.jpg"></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/Small.jpg"></div></a></td>
-</tr>
-<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation 图片链接</a></th>
-<tr>
 <td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="125px" src="./images/Symbolic.jpg"/></div></a></td>
-</tr>
-</table>
-
-
-
 
 
 

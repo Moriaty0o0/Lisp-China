@@ -238,7 +238,7 @@
 <td><a><div align=center><img width="125px" src="./images/successful.jpg"/></div></a></td>
 <td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="125px" src="./images/AI.jpg"></div></a></td>
 <td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="125px" src="./images/Symbolic.jpg"/></div></a></td>
-
+</table>
 
 
 《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )

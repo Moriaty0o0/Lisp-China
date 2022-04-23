@@ -9,6 +9,7 @@
 - [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf) 
 - [LISP 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view)
 - Welcome to [schemers.org](https://schemers.org/)!  [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
+- [The Scheme Programming Language](https://www.staging.scheme.org/) 
 - [(chez (chez scheme))](https://www.scheme.com/)
 - [Common Lisp](https://lisp-lang.org/) 
 - [Clojure](https://clojure.org/) 
@@ -33,127 +34,67 @@
 ### 生态：
 
 - [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-
 - [State of Common Lisp Web Development - an overview](https://lisp-journey.gitlab.io/web-dev/) 2017 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-
 - [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/) 2019 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-
 - [Common Lisp: An short introduction on most interesting parts](https://github.com/alaskasquirrel/Lisp-China/blob/master/PDF/%E3%80%88Common%20Lisp%EF%BC%9AAn%20short%20introduction%20on%20most%20interesting%20parts%E3%80%89%20%EF%BC%88%E7%94%B0%E6%98%A5%E5%88%B6%EF%BC%892012%E5%B9%B410%E6%9C%88%20%E6%B5%99%E5%A4%A7%E8%AE%B2%E5%BA%A7PPT.pdf) 田春(冰河) 2012年10月 浙大讲座PPT
-
 - 👍  [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
-
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译 Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn/) 
-
+- [The Scheme Cookbook](https://cookbook.scheme.org/) 
 - [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
-
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
-
 - [The evolution of a Scheme programmer](https://erkin.party/blog/200715/evolution/) 
-
 - [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
-
 - [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
-
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
-
 - <img width="50" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) 
-
 - [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
-
 - [Common Lisp in Practice](http://atomized.org/blog/2020/07/06/common-lisp-in-practice/)
-
 - 👉 [How I got started with Common Lisp in 2017](https://anticrisis.github.io/2017/09/04/how-i-got-started-with-common-lisp-2017.html)
-
 - [ForumRoguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
-
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP)
-
 - 👍 [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) Grammarly Engineering Blog
-
+- [Common Lisp Libraries](https://common-lisp-libraries.readthedocs.io/)
+- [Common Lisp Libraries by Edi Weitz](https://edicl.github.io/)
 - [ROS](https://wiki.ros.org/roslisp) 是一个构建机器人及应用的操作系统，主要目标是为机器人研究和开发提供代码复用的支持。
-
 - [The Common Lisp Foundation](https://cl-foundation.org/)， [Common Lisp Libraries](https://common-lisp.net/libraries) 
-
 - [LambdaNative](https://www.lambdanative.org/) is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt.
-
 - [Planet Lisp](http://planet.lisp.org/) is a meta blog that collects the contents of various Lisp-related blogs.
-
 - [Planet Scheme](https://planet.scheme.org/) collects blog posts from individuals and projects around the Scheme community.
-
 - [Planet SBCL](http://planet.sbcl.org/) s a meta blog that collects the contents of various SBCL-related blogs.
-
 - [Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
-
 - [Quicklisp news](http://blog.quicklisp.org/)
-
 - [Racket News](https://racket-news.com/)
-
 - [Racket Stories](https://racket-stories.com/)
-
 - [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
-
 - [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
-
 - [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
-
 - [Gauche](https://practical-scheme.net/gauche/) A Scheme Implementation
-
 - [CHICKEN Scheme](https://call-cc.org/) a practical and portable scheme system
-
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
-
 - [Akku.scm - Scheme package manager](https://akkuscm.org/)
-
 - 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
-
 - Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. [SBCL: a Sanely-Bootstrappable Common Lisp]()
-
 - Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
-
 - [GNU Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, [free/libre](https://www.gnu.org/philosophy/free-sw.html) text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
-
 - [Lisp Style and Efficiency](https://www.cs.utexas.edu/users/novak/lispeff.html)
-
 - [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs.
-
 - [Sly：Sylvester the Cat's Common Lisp IDE](https://joaotavora.github.io/sly/)
-
 - [Roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
-
 - [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
-
 - [restas](https://github.com/archimag/restas) Common Lisp  web framework
-
-- [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp. [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp
-
-- [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/)
-
-  > Guile is designed to help programmers create flexible applications that can be extended by users or other programmers with plug-ins, modules, or scripts.
-  >
-  > With Guile you can create applications and games for the [desktop](https://www.gnu.org/software/guile/#apps-using-guile), the [Web](https://www.gnu.org/software/guile/#apps-using-guile), the [command-line](https://www.gnu.org/software/guile/#apps-using-guile), and more.
-
+- [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp. [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp 包管理
+- [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/) 编程实现
 - [GNU Artanis](https://www.gnu.org/software/artanis/)  is a web application framework(WAF) written in Guile Scheme. [HardenedLinux / artanis](https://gitlab.com/hardenedlinux/artanis) 
-
 - [Allegro CL](https://franz.com/support/documentation/) 
-
 - [Corman Lisp](https://github.com/sharplispers/cormanlisp) is a Common Lisp development environment for Microsoft Windows operating systems running on Intel platforms. Corman Lisp consists of a Common Lisp native code compiler for Intel processors, 80x86 assembler and disassembler, incremental linker and multi-window text editor. It requires a system running a Microsoft Windows operating system (such as Windows XP, Windows 2000, Windows ME or Windows NT). It is fully integrated with the Win32 API, and all the Windows API functions are readily available from Lisp.
-
 - [cl-ppcre](https://github.com/edicl/cl-ppcre) Common Lisp regular expression library
-
 - [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
-
 - 👉 [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
-
 - [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
-
 - [Embeddable Common-Lisp](https://ecl.common-lisp.dev/) is an interpreter of the Common-Lisp language as described in the X3J13 Ansi specification, featuring CLOS (Common-Lisp Object System), conditions, loops, etc, plus a translator to C, which can produce standalone executables.
-
 - [Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
-
 - [whirlog](https://github.com/codr7/whirlog) a minimal versioned log structured relational DB in Common Lisp
-
 - [LISP In Summer Projects](http://www.lispinsummerprojects.org/) 
-
 - [RUNNING MCCLIM AND OTHER LISP PACKAGES ON WINDOWS](https://egao1980.github.io/cl-blog/posts/Running-McCLIM-and-other-Lisp-packages-on-Windows.html)
 
 ### 著述：
@@ -323,6 +264,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 |  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)  |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
 | MIT | [Dynamic Languages Group](http://www.ai.mit.edu/projects/dynlangs/) |  |
 | Simon Fraser University | CMPT 310: [Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/) |  |
+|  | [CS3723 Programming Languages Spring 2011](http://www.cs.uccs.edu/~qyi/UTSA-classes/cs3723/) | |
 | Cornell | http://www.cs.cornell.edu/~kozen/#Courses | <img width="30" src="https://www.cs.cornell.edu/~kozen/images/photos/Dex16.jpg"> Dexter Kozen |
 | MPI-SWS | Programming Languages, Etc. [Reading Group](https://people.mpi-sws.org/~skilpat/plerg/) (PLERG) | <img width="30" src="https://people.mpi-sws.org/~skilpat/scott-web.jpg"> Scott Kilpatrick |
 |北京大学|[程序设计技术和方法 (教科书SICP)](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/) | <img width="30" src="http://news.blcu.edu.cn/__local/A/3B/13/0BC744143BBA7011D4D2D356041_DF26B6B9_22853.jpg"> 2014春季本科生 [裘宗燕](https://www.math.pku.edu.cn/teachers/qiuzy/) 退休 |
@@ -362,8 +304,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   *  [读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
   *  [Lisp之根源(Paul Graham: The Roots of Lisp.May,2001)](https://www.cnblogs.com/Leap-abead/articles/762226.html)
   *  [跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007)](https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author)
-  *  Early LISP https://funcall.blogspot.com/2021/03/early-lisp.html
-  *  Early LISP Part II (Apply redux) https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html
+  *  [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html) , [Early LISP Part II (Apply redux)]( https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html).
   *  [不用 Lisp 学 Lisp](https://techsingular.net/2015/03/22/)
   *  Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
   *  Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/

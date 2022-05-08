@@ -29,18 +29,13 @@
 
 ### 学习路径：
 
-- <img width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+<img width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
 ### 生态：
 
 - [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-- [State of Common Lisp Web Development - an overview](https://lisp-journey.gitlab.io/web-dev/) 2017 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-- [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/) 2019 <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-- [Common Lisp: An short introduction on most interesting parts](https://github.com/alaskasquirrel/Lisp-China/blob/master/PDF/%E3%80%88Common%20Lisp%EF%BC%9AAn%20short%20introduction%20on%20most%20interesting%20parts%E3%80%89%20%EF%BC%88%E7%94%B0%E6%98%A5%E5%88%B6%EF%BC%892012%E5%B9%B410%E6%9C%88%20%E6%B5%99%E5%A4%A7%E8%AE%B2%E5%BA%A7PPT.pdf) 田春(冰河) 2012年10月 浙大讲座PPT
-- 👍  [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
-- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译 Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn/) 
 - [The Scheme Cookbook](https://cookbook.scheme.org/) 
-- [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
+- [Practical Scheme](https://practical-scheme.net/)  
 - [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
 - [The evolution of a Scheme programmer](https://erkin.party/blog/200715/evolution/) 
 - [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
@@ -105,6 +100,7 @@
 - [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚 [R5RS](https://schemers.org/Documents/Standards/R5RS/)
 - [R6RS](http://www.r6rs.org/)
 - [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) & [R7RS Index](https://r7rsindex.com/)
+- [Scheme Reports](https://www.scheme-reports.org/)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
 - [LISP FROM NOTHING](http://t3x.org/lfn/)
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
@@ -114,6 +110,7 @@
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
 - [Scheme Lisp - Feel the Cool](http://www.artificialworlds.net/presentations/scheme-accu2018/scheme-accu2018.pdf) (PDF) Andy Balaam.
+- [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
 
 <table>
 <tr>
@@ -184,6 +181,8 @@
 
 《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
 
+[Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
+
 **Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene 1989.
 
 **ANSI Common Lisp** Paul Graham [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
@@ -215,6 +214,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * [Using Emacs Series](https://cestlaz.github.io/stories/emacs/) 📅 Mike Zamansky
   * [Emacs Handbook](https://eiuapp.github.io/emacs-handbook/) 📚
   * [Emacs Video](https://www.youtube.com/c/ProtesilaosStavrou/videos) 📺 Protesilaos Stavrou
+  * [Emacs org-mode examples and cookbook](http://ehneilsen.net/notebook/orgExamples/org-examples.html) 
   * [如何提高编程速度](https://www.zhihu.com/column/c_1116711987706478592) 📝 [陈斌](http://blog.binchen.org/) [github](https://github.com/redguardtoo)
   * [Xah Emacs](http://xahlee.info/emacs/index.html)
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
@@ -261,7 +261,7 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 | Edu | Course |  |
 |:--:|:---:|:---:|
-|  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)  |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)  退休  |
+|  Indiana  |  [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php)  |  <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)<br>[Daniel P Friedman: A Celebration 2004](https://legacy.cs.indiana.edu/dfried_celebration.html)  |
 | MIT | [Dynamic Languages Group](http://www.ai.mit.edu/projects/dynlangs/) |  |
 | Simon Fraser University | CMPT 310: [Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/) |  |
 |  | [CS3723 Programming Languages Spring 2011](http://www.cs.uccs.edu/~qyi/UTSA-classes/cs3723/) | |
@@ -284,10 +284,13 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### 博文：
 
+  - [Why Church chose lambda – Wisdom And Wonder](https://www.wisdomandwonder.com/link/3022/why-church-chose-lambda) 
   *  [A Retrospective on Paradigms of AI Programming](https://norvig.com/Lisp-retro.html)
   *  [Python for Lisp Programmers](https://norvig.com/python-lisp.html)
   *  [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
   *  [Lisp with Macros is Two Languages](https://ericnormand.me/article/lisp-with-macros-language-stack)
+  *  [History of Lisp](http://lambda-the-ultimate.org/node/5548) | Lambda the Ultimate
+  *  [Research in Programming Languages](http://lambda-the-ultimate.org/node/4469) | Lambda the Ultimate
   *  Pascal Costanza's Highly Opinionated Guide to Lisp http://www.p-cos.net/lisp/guide.html
   *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
   *  [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)

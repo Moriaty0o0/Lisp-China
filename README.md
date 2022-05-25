@@ -1,69 +1,211 @@
 <div align=center><img src="./images/LandOfLisp.png" width="150px"></div>
 
-#### Song: ["God Wrote in Lisp"](http://www.prometheus-music.com/audio/eternalflame.mp3), [Lyrics](http://www.songworm.com/lyrics/songworm-parody/EternalFlame.html) by [Bob Kanefsky](http://www.songworm.com/songworm.html), sung by [Julia Ecklar](http://www.songworm.com/db/person/JuliaEcklar.html).
+###### Song: ["God Wrote in Lisp"](http://www.prometheus-music.com/audio/eternalflame.mp3), [Lyrics](http://www.songworm.com/lyrics/songworm-parody/EternalFlame.html) by [Bob Kanefsky](http://www.songworm.com/songworm.html), sung by [Julia Ecklar](http://www.songworm.com/db/person/JuliaEcklar.html).
+
+**=>** [Scheme](#Scheme) | [Common Lisp](#Common Lisp) | [Clojure](#Clojure) | [Emacs Lisp](#Emacs Lisp) | [Racket](#Racket) | [miniKanren](#miniKanren) | [Emacs](#Emacs) 
 
 ### History:
 
-- <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) : [History of Lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
-- <img width="35" src="https://computerhistory.org/wp-content/themes/bsdstarter/assets/img/chm-logo-text.svg"> [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
+- <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) : [History of Lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf), 1979.
+
+- [Simons Foundation Video interviews, July 26, 2005, John McCarthy](https://www.simonsfoundation.org/2013/03/13/john-mccarthy/)
+
+- <img width="35" src="https://computerhistory.org/wp-content/themes/bsdstarter/assets/img/chm-logo-text.svg"> [History of LISP](http://www.softwarepreservation.org/projects/LISP) Group by [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
+
 - [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf) 
+
 - [LISP 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view)
-- Welcome to [schemers.org](https://schemers.org/)!  [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
-- [The Scheme Programming Language](https://www.staging.scheme.org/) 
-- [(chez (chez scheme))](https://www.scheme.com/)
-- [Common Lisp](https://lisp-lang.org/) 
-- [Clojure](https://clojure.org/) 
-- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
-- [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
+
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
-- [Common Lisp Object System](https://dreamsongs.com/CLOS.html) ※ Richard P. Gabriel
-- [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
-- [A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey <img width="40" src="https://avatars.githubusercontent.com/u/34045?v=4"> ,  2020. 
-- [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
+
+- [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html) , [Early LISP Part II (Apply redux)]( https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html).
+
 - [Technical Issues of Separation in Function Cells and Value Cells](https://dreamsongs.com/Separation.html) , [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
+
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
+
 - [A few things I know about LISP Machines](http://fare.tunes.org/LispM.html)
+
 - [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies/)
+
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
+
 - [Symbolics Lisp Machine Museum](http://smbx.org/)
 
-### 学习路径：
+- Slava Akhmechet：[The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) 2006 & Alec Jang 译 [Lisp的本质](https://www.cnblogs.com/Leap-abead/articles/762180.html)
 
-<img width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+- 赛义甫：[读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
 
-### 生态：
+- Paul Graham：The Roots of Lisp, 2001. 译 [Lisp之根源](https://www.cnblogs.com/Leap-abead/articles/762226.html).
 
-- [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
+
+****
+
+### Scheme
+
+<img width="50" src="https://schemers.org/logo-dsandler.gif"> https://schemers.org/
+
+[The Scheme Programming Language](https://www.staging.scheme.org/) 
+
+[Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
+
+[Planet Scheme](https://planet.scheme.org/) collects blog posts from individuals and projects around the Scheme community.
+
+[(chez (chez scheme))](https://www.scheme.com/)
+
+[Practical Scheme](https://practical-scheme.net/)  
+
+[Gauche](https://practical-scheme.net/gauche/) A Scheme Implementation
+
+标准版本：
+
+- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) & [R7RS Index](https://r7rsindex.com/)
+- Scheme Requests for Implementation https://srfi.schemers.org/
+- [Scheme Reports](https://www.scheme-reports.org/)
+- [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/) 研讨会
+
+##### Video:
+
+Learning SICP 公开课翻译项目 - https://learningsicp.github.io/ ; Eli Bendersky : [SICP](https://eli.thegreenplace.net/tag/sicp) 
+
+Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/), [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0).
+
+##### 学习资料：
+
 - [The Scheme Cookbook](https://cookbook.scheme.org/) 
-- [Practical Scheme](https://practical-scheme.net/)  
-- [s-exp syntax](https://www.cliki.net/S-exp%20syntax) 
+- [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚[R5RS](https://schemers.org/Documents/Standards/R5RS/)
 - [The evolution of a Scheme programmer](https://erkin.party/blog/200715/evolution/) 
+
+- [Yet Another Scheme Tutorial](http://www.shido.info/index_e.html) & 中文翻译 [Scheme入门教程](https://deathking.github.io/yast-cn/)
+- [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html) & 中文翻译 [Scheme语言简明教程](https://songjinghe.github.io/TYS-zh-translation/) 
+
+<table>
+<tr>
+<th><a>The Little LISPer</a></th>
+<th><a>The Little Schemer</a></th>
+<th><a>The Scheme Programming Language</a></th>
+<th><a>Lisp in Small Pieces</a></th>  
+<th><a>Essentials of Programming Languages</a></th>
+<th><a>Scheme and the Art of Programing</a></th>
+<th><a>Logic Programming in Scheme</a></th>
+</tr>
+<tr>
+<td><a><img width="100px" src="./images/Lisper.jpg"></a></td>
+<td><a><img width="100px" src="./images/Schemer.jpg"></a></td>
+<td><a href="https://www.scheme.com/tspl4"><div align=center><img width="125px" src="./images/Scheme4.jpg"></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/Small.jpg"></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/essentials.jpg"></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/scheme.jpg"></a></td>
+<td><a><div align=center><img width="100px" src="./images/logic.png"/></div></a></td>
+</tr>
+</table>
+
+
+
+****
+
+### Common Lisp
+
+<img width="35" src="https://lisp-lang.org/assets/img/logo/blue.png"> https://lisp-lang.org/
+
+[Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html)
+
+[A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
+
+[Common Lisp Object System](https://dreamsongs.com/CLOS.html)  Richard P. Gabriel
+
+[Common Lisp: The Untold Story](http://www.nhplace.com/kent/Papers/cl-untold-story.html) Kent M. Pitman
+
+学习路径： [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+
+播客:<img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
+
+播客:<img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
+
+播客:<img width="35" src="https://imagev2.xmcdn.com/group17/M05/63/28/wKgJJFeeYafS-qUNAAIYz2ivNpY134.jpg"> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
+
+#### CL书籍教程：https://lisp-lang.org/books/
+
+<img width="50px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
+
+<img width="50px" src="./images/ANSI.jpg"/> ANSI Common Lisp & [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
+
+<img width="50px" src="./images/onlisp.jpg"> On Lisp: Advanced Techniques for Common Lisp & [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
+
+<img width="50px" src="./images/LetOverLambda.jpg"> [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
+
+<table>
+<tr>
+<th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
+<th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
+<th><a>Programming Algorithms in Lisp</a></th>
+<th><a>The Common Lisp Condition System</a></th> 
+</tr>
+<tr>
+<td><a><div align=center><img width="100px" src="./images/successful.jpg"/></div></a></td>
+<td><a href=""><div align=center><img width="100px" src="./images/recipes.jpg/"></div></a>
+<td><a href="https://github.com/Apress/programming-algorithms-lisp"><div align=center><img width="100px" src="./images/algorithms.jpeg/"></div></a>
+<td><a href=""><div align=center><img width="100px" src="./images/Condition.jpg"/></div></a></td>
+</tr>
+<tr>
+<th><a>Common Lisp the Language, 2nd Edition</a></th>
+<th><a>Practical Common Lisp & 实用Common Lisp编程</a></th>
+<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a></th>
+<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation</a></th>
+</tr>
+<tr>
+<td><a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html"><div align=center><img width="100px" src="./images/CL.jpg"/></div></a></td>
+<td><a href="http://www.gigamonkeys.com/book/"><img width="100px" src="./images/practical.jpg"/></a><a href="https://binghe.github.io/pcl-cn/"><img width="105px" src="./images/实用.jpg"/></a></td>
+<td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="100px" src="./images/AI.jpg"></div></a></td>
+<td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="100px" src="./images/Symbolic.jpg"/></div></a></td>
+</table>
+- **Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS**   Sonja E. Keene 1989.
+
+- 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
+
+- 《LISP语言》陈光喜，2005年09. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
+
+#### CL生态：
+
+Debian  Synaptic Package Manager
+
+> CL+Emacs+Slime+SBCL+Quicklisp
+
+- [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
+
+- [Common Lisp programming: from novice to effective developer | Udemy](https://www.udemy.com/course/common-lisp-programming/) (付费)
+
+- [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) Grammarly Engineering Blog
+
+- [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp) , [YouTube](https://www.youtube.com/channel/UCv33UlfX5S4PKxozGwUY_pA/videos)
+
+- [European Lisp Symposium](https://european-lisp-symposium.org) , [YouTube](https://www.youtube.com/c/EuropeanLispSymposium/videos)
+
+- [Lisp journey](https://lisp-journey.gitlab.io/):  [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) 
+
+- [Common Lisp in Practice](http://atomized.org/blog/2020/07/06/common-lisp-in-practice/)
+
+- [How I got started with Common Lisp in 2017](https://anticrisis.github.io/2017/09/04/how-i-got-started-with-common-lisp-2017.html)
+
+- [ForumRoguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
+
 - [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
 - [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
 - <img width="50" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) 
 - [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
-- [Common Lisp in Practice](http://atomized.org/blog/2020/07/06/common-lisp-in-practice/)
-- 👉 [How I got started with Common Lisp in 2017](https://anticrisis.github.io/2017/09/04/how-i-got-started-with-common-lisp-2017.html)
-- [ForumRoguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP)
-- 👍 [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) Grammarly Engineering Blog
 - [Common Lisp Libraries](https://common-lisp-libraries.readthedocs.io/)
 - [Common Lisp Libraries by Edi Weitz](https://edicl.github.io/)
 - [ROS](https://wiki.ros.org/roslisp) 是一个构建机器人及应用的操作系统，主要目标是为机器人研究和开发提供代码复用的支持。
 - [The Common Lisp Foundation](https://cl-foundation.org/)， [Common Lisp Libraries](https://common-lisp.net/libraries) 
 - [LambdaNative](https://www.lambdanative.org/) is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt.
 - [Planet Lisp](http://planet.lisp.org/) is a meta blog that collects the contents of various Lisp-related blogs.
-- [Planet Scheme](https://planet.scheme.org/) collects blog posts from individuals and projects around the Scheme community.
 - [Planet SBCL](http://planet.sbcl.org/) s a meta blog that collects the contents of various SBCL-related blogs.
-- [Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
 - [Quicklisp news](http://blog.quicklisp.org/)
-- [Racket News](https://racket-news.com/)
-- [Racket Stories](https://racket-stories.com/)
 - [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
 - [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
 - [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
-- [Gauche](https://practical-scheme.net/gauche/) A Scheme Implementation
 - [CHICKEN Scheme](https://call-cc.org/) a practical and portable scheme system
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
 - [Akku.scm - Scheme package manager](https://akkuscm.org/)
@@ -90,122 +232,58 @@
 - [Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
 - [whirlog](https://github.com/codr7/whirlog) a minimal versioned log structured relational DB in Common Lisp
 - [LISP In Summer Projects](http://www.lispinsummerprojects.org/) 
-- [RUNNING MCCLIM AND OTHER LISP PACKAGES ON WINDOWS](https://egao1980.github.io/cl-blog/posts/Running-McCLIM-and-other-Lisp-packages-on-Windows.html)
-
-### 著述：
-
-- 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
-- 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
-- [Nils M Holm's Ephemeralia](https://t3x.org/)
-- [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚 [R5RS](https://schemers.org/Documents/Standards/R5RS/)
-- [R6RS](http://www.r6rs.org/)
-- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) & [R7RS Index](https://r7rsindex.com/)
-- [Scheme Reports](https://www.scheme-reports.org/)
-- [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
-- [LISP FROM NOTHING](http://t3x.org/lfn/)
-- [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
-- 《[ANSI Common Lisp Standard Specification Draft 1994 (EN)](https://lisp.com.br/archive/ansi_cl_standard_draft_nice.pdf)》[中文翻譯版 Chinese](https://acl.readthedocs.io/en/latest/)
-- 《[Scheme 入门教程](https://deathking.github.io/yast-cn/)》
-- 《[Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html)》[中文翻译 Chinese simplified](https://songjinghe.github.io/TYS-zh-translation/) 
-- [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-- [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
-- [Scheme Lisp - Feel the Cool](http://www.artificialworlds.net/presentations/scheme-accu2018/scheme-accu2018.pdf) (PDF) Andy Balaam.
-- [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
-
-<table>
-<tr>
-<th><a>The Little LISPer</a></th>
-<th><a>The Little Schemer</a></th>
-<th><a>The Little MLer</a></th>
-<th><a>The Little Java, A Few Petterns</a></th>
-<th><a>The Little Prover</a></th>
-<th><a>The Little Typer</a></th>
-</tr>
-<tr>
-<td><a><img width="125px" src="./images/Lisper.jpg"></a></td>
-<td><a><img width="125px" src="./images/Schemer.jpg"></a></td>
-<td><a><img width="125px" src="./images/MLer.jpg"></a></td>
-<td><a><div align=center><img width="125px" src="./images/Java.jpg"></div></a></td>
-<td><a><img width="125px" src="./images/Prover.jpg"></a></td>
-<td><a><img width="125px" src="./images/Typer.jpg"></a></td>
-</tr>
-<tr>
-<th><a>The Scheme Programming Language, 4th Edition 图片链接</a></th>
-<th><a>Essentials of Programming Languages</a></th>
-<th><a>Scheme and the Art of Programing</a></th>
-<th><a>Logic Programming in Scheme</a></th>
-<th><a>Lisp in Small Pieces</a></th>   
-<th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
-</tr>
-<tr>
-<td><a href="https://www.scheme.com/tspl4"><div align=center><img width="125px" src="./images/Scheme4.jpg"></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/essentials.jpg"></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/scheme.jpg"></a></td>
-<td><a><div align=center><img width="125px" src="./images/logic.png"/></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/Small.jpg"></div></a></td>
-<td><a href=""><div align=center><img width="125px" src="./images/recipes.jpg/"></div></a>
-</tr>
-<tr>
-<th><a>Programming Algorithms in Lisp 图片链接</a></th>
-<th><a>Common Lisp the Language, 2nd Edition 图片链接</a></th>
-<th><a>ANSI Common Lisp</a></th>
-<th><a>Practical Common Lisp 图片链接</a></th>
-<th><a>On Lisp: Advanced Techniques for Common Lisp 图片链接</a></th>
-<th><a>Let Over Lambda 图片链接</a></th>
-</tr>
-<tr>
-<td><a href="https://github.com/Apress/programming-algorithms-lisp"><div align=center><img width="125px" src="./images/algorithms.jpeg/"></div></a>
-<td><a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html"><div align=center><img width="125px" src="./images/CL.jpg"/></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/ANSI.jpg"/></div></a></td>
-<td><a href="http://www.gigamonkeys.com/book/"><div align=center><img width="125px" src="./images/practical.jpg"/></div></a></td>
-<td><a href="http://paulgraham.com/onlisptext.html"><div align=center><img width="125px" src="./images/onlisp.jpg"></div></a></td>
-<td><a href="https://letoverlambda.com/"><div align=center><img width="125px" src="./images/LetOverLambda.jpg"></div></a></td>
-</tr>
-<tr>
-<th><a>实用Common Lisp编程 图片链接</a></th>
-<th><a>The Common Lisp Cookbook 图片链接</a></th>
-<th><a>The Common Lisp Condition System</a></th> 
-<th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
-<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp 图片链接</a></th>
-<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation 图片链接</a></th>
-</tr>
-<tr>
-<td><a href="https://binghe.github.io/pcl-cn/"><div align=center><img width="125px" src="./images/实用.jpg"/></div></a></td>
-<td><a href="https://lispcookbook.github.io/cl-cookbook/"><div align=center><img width="125px" src="./images/cookbook.png"/></div></a></td>
-<td><a href=""><div align=center><img width="125px" src="./images/Condition.jpg"/></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/successful.jpg"/></div></a></td>
-<td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="125px" src="./images/AI.jpg"></div></a></td>
-<td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="125px" src="./images/Symbolic.jpg"/></div></a></td>
-</table>
+- [RUNNING MCCLIM AND OTHER LISP PACKAGES ON WINDOWS](
 
 
-《On Lisp: Advanced Techniques for Common Lisp》 Paul Graham<img width="35" src="https://observer.com/wp-content/uploads/sites/2/2015/11/173643703_fbf13b3651_o.jpg">   [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
+****
 
-[Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
+### Racket
 
-**Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS** Sonja E. Keene 1989.
+- [Racket News](https://racket-news.com/)
 
-**ANSI Common Lisp** Paul Graham [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
+- [Racket Stories](https://racket-stories.com/)
 
-**Learning to Program in LISP** John R.Anderson, Robert Farrell and Ron Sauers. Carnegie-Mellon University. Cognitive Science 8,87-129(1984).
+- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 
-**The Roots of Lisp** Paul Graham. Draft,January 18, 2002.
+****
 
-**Basic Lisp Techniques** David J.Cooper, franz.com, 2003.
+### Clojure
 
-**An Axiomatic Basis for Computer Programming** C.A.R.Hoare<img width="35" src="https://www.circuitstoday.com/wp-content/uploads/2012/09/tony_hoare_quick_sort-300x300.jpg">.
+<img width="45" src="https://clojure.org/images/clojure-logo-120b.png"> https://clojure.org/
 
-**Computability and Complexity-from a programming perspective** Neils D.Jones, the MIT Press, 1997. this book is not directly related to LISP,needless to say that it is Saitama.
+[A history of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)  Rich Hickey <img width="40" src="https://avatars.githubusercontent.com/u/34045?v=4"> ,  2020. 
 
-The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45" src="http://alltom.com/pages/best-lectures/gerald-sussman-we-really-dont-know-how-to-compute.jpg"> : http://library.readscheme.org/page1.html
+[Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
 
-**[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)** - Richard P. Gabriel
+[The Clojure Philosophy](http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/)
 
-[The Art of Lisp & Writing](https://dreamsongs.com/ArtOfLisp.html) - Richard P. Gabriel
+Elango Cheran：[Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/) 
 
-[Build Your Own Lisp](https://builyouownlisp.com/) & [中文版 Chinese simplified](https://ksco.gitbooks.io/build-your-own-lisp/) 
+Robert C. Martin (Uncle Bob)：[Why Clojure?](http://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
 
-### Emacs：
+刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
+
+播客： <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），Clojure编程. 2016年. https://www.ximalaya.com/keji/4867505/19342829
+
+****
+
+### miniKanren
+
+[**minikanren**.org](http://minikanren.org/)
+
+  <div>
+  <img width="100" src="./images/reasoned.jpg/"> The Reasoned Schemer
+****
+
+### Emacs Lisp
+
+[Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) Stefan Monnier, Michael Sperber. Proceedings of the ACM on Programming LanguagesJune 2020 Article No 74. 
+
+****
+
+### Emacs
+
+[EmacsConf](https://emacsconf.org)
 
   * [22 years of Emacs](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/)  
   * [Emacs China 社区](https://emacs-china.org/)
@@ -219,45 +297,43 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
   * [Xah Emacs](http://xahlee.info/emacs/index.html)
   * [More Productive with Emacs](https://lucidmanager.org/tags/emacs/)
   * [Emacs Docs](https://www.emacsdocs.org/)
-  * [MELPA](https://melpa.org/)
+  * [MELPA](https://melpa.org/#/)
 
-### Forum：
+学习:
 
-  * [Lisp journey](https://lisp-journey.gitlab.io/) <img width="35" src="https://avatars.githubusercontent.com/u/3721004"> [vindarel](https://github.com/vindarel)
-  * [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp)：learning lisp [YouTube](https://www.youtube.com/channel/UCv33UlfX5S4PKxozGwUY_pA/videos)
-  * [EmacsConf](https://emacsconf.org)
-  * [European Lisp Symposium](https://european-lisp-symposium.org) , [YouTube](https://www.youtube.com/c/EuropeanLispSymposium/videos)
-  * [Emacs China](https://emacs-china.org/)
-  * [Scheme中文社区](http://theschemer.org/)
-  * [Clojure China](http://www.clojurechina.com/zh-cn/)
+Emacs 高手修炼手册 [bilibili](https://www.bilibili.com/video/BV13g4y167Zn/) , https://www.zhihu.com/column/c_1413568526368542721
 
-### Podcasts：
+Emacs 轻奢之路 [bilibili](https://www.bilibili.com/video/BV1T64y1R7EL) , https://zhuanlan.zhihu.com/p/496645254
 
-  * <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
-  * <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
-  * <img width="35px" src="https://imagev2.xmcdn.com/group20/M0A/63/61/wKgJJ1eeB-PQdc6-AAIYz2ivNpY840.png"/> 代码时间(终结) —— 嘉宾：何婧誉（Loretta），Clojure编程. 2016年. https://www.ximalaya.com/keji/4867505/19342829
+21天学会Emacs 2022 Edition [bilibili](https://space.bilibili.com/292659700/video) , https://book.emacs-china.org/
+
+EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili.com/video/BV1Mr4y1a7JT) 
+
+****
+
+### PL Podcasts：    
+
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
+
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
+
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
+
   * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
-  *  CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/023/action-320-8edb6f3e2.webp"> [The Little Typer](https://corecursive.com/023-little-typer-and-pie-language/) with Dan Friedman and David Christiansen
+
+  * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/023/action-320-8edb6f3e2.webp"> [The Little Typer](https://corecursive.com/023-little-typer-and-pie-language/) with Dan Friedman and David Christiansen
+
   * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/021/action-320-8af59caee.webp"> [God's Programming Language](https://corecursive.com/021-gods-programming-language-with-philip-wadler/) with Philip Wadler
 
   * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/039/action-320-ae1f55081.webp"> [Language Oriented Design](https://corecursive.com/039-hal-abelson-sicp/#scheme) discussing SICP with Hal Abelson
 
 ### Video：
 
-  * Simons Foundation Video interviews, July 26, 2005, John McCarthy - https://www.simonsfoundation.org/2013/03/13/john-mccarthy/
-  * Learning SICP 公开课翻译项目 - https://learningsicp.github.io/ ; Eli Bendersky : [SICP](https://eli.thegreenplace.net/tag/sicp) 
-  * Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/) [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
   * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) [bilibili](https://www.bilibili.com/video/av32496013/) [youtube](https://www.youtube.com/watch?v=IHP7P_HlcBk)
   * Little Bits of Lisp [bilibili](https://www.bilibili.com/video/BV15J411J7Aw) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) & Pushing Pixels With Lisp [bilibili](https://www.bilibili.com/video/BV1K7411v7bj) [youtube](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS) 
-  * [Common Lisp programming: from novice to effective developer | Udemy](https://www.udemy.com/course/common-lisp-programming/) (付费)
-  * 刘家财: [国内第一套 Clojure 视频课程](https://github.com/jiacai2050/learn_clojure.mp4)(付费)，Let Lisp Rocks !
   * [Readable Lisp S-expressions Project](https://readable.sourceforge.io/)
 
-### 课程：
+### 高校：
 
 | Edu | Course |  |
 |:--:|:---:|:---:|
@@ -284,44 +360,71 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 
 ### 博文：
 
-  - [Why Church chose lambda – Wisdom And Wonder](https://www.wisdomandwonder.com/link/3022/why-church-chose-lambda) 
-  *  [A Retrospective on Paradigms of AI Programming](https://norvig.com/Lisp-retro.html)
-  *  [Python for Lisp Programmers](https://norvig.com/python-lisp.html)
-  *  [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
-  *  [Lisp with Macros is Two Languages](https://ericnormand.me/article/lisp-with-macros-language-stack)
-  *  [History of Lisp](http://lambda-the-ultimate.org/node/5548) | Lambda the Ultimate
-  *  [Research in Programming Languages](http://lambda-the-ultimate.org/node/4469) | Lambda the Ultimate
-  *  Pascal Costanza's Highly Opinionated Guide to Lisp http://www.p-cos.net/lisp/guide.html
-  *  [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
-  *  [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
-  *  [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
-  *  👉 [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
-  *  Common Lisp: The Untold Story: http://www.nhplace.com/kent/Papers/cl-untold-story.html Kent M. Pitman
-  *  [An Intuition for Lisp Syntax](https://stopa.io/post/265)
-  *  [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)
-  *  [Can Lisp Macro Change Lisp Syntax?](http://xahlee.info/comp/lisp_syntax_macro_reader.html)
-  *  [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
-  *  [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
-  *  [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)
-  *  [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) 2006 & [Lisp的本质](https://www.cnblogs.com/Leap-abead/articles/762180.html)
-  *  [读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
-  *  [Lisp之根源(Paul Graham: The Roots of Lisp.May,2001)](https://www.cnblogs.com/Leap-abead/articles/762226.html)
-  *  [跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007)](https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author)
-  *  [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html) , [Early LISP Part II (Apply redux)]( https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html).
-  *  [不用 Lisp 学 Lisp](https://techsingular.net/2015/03/22/)
-  *  Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
-  *  Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
-  *  This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
-  *  The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
-  *  The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
-  *  [Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/) 
-  *  [Why Clojure?](http://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
-  *  [7 Project ideas for learning Common Lisp](https://www.darkchestnut.com/2016/starter-projects/)
-  *  [SAVE-LISP-OR-DIE](https://hyperthings.garden/posts/series/save-lisp-or-die.html) a series advocating for Common Lisp
-  *  [A practitioner’s guide to reading programming languages papers](https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/) 
-  *  [Learn You a Lambda, a Haskell Tutorial](https://github.com/ninegua/lambda-viewer)
+  * Peter Norvig:  [A Retrospective on Paradigms of AI Programming](https://norvig.com/Lisp-retro.html)
+  * Peter Norvig:  [Python for Lisp Programmers](https://norvig.com/python-lisp.html)
+  * Peter Norvig:  [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
+  * Eric Normand:  [Lisp with Macros is Two Languages](https://ericnormand.me/article/lisp-with-macros-language-stack)
+  * [History of Lisp](http://lambda-the-ultimate.org/node/5548) | Lambda the Ultimate
+  * [Research in Programming Languages](http://lambda-the-ultimate.org/node/4469) | Lambda the Ultimate
+  * [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html) 
+  * [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
+  * [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
+  * [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
+  * [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
+  * [An Intuition for Lisp Syntax](https://stopa.io/post/265)
+  * [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)
+  * [Can Lisp Macro Change Lisp Syntax?](http://xahlee.info/comp/lisp_syntax_macro_reader.html)
+  * [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
+  * [Lisp的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)
+  * [不用 Lisp 学 Lisp](https://techsingular.net/2015/03/22/)
+  * Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
+  * Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
+  * This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain)
+  * The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
+  * [Nils M Holm's Ephemeralia](https://t3x.org/)
+* [LISP FROM NOTHING](http://t3x.org/lfn/)
+* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
+* [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
+* [Scheme Lisp - Feel the Cool](http://www.artificialworlds.net/presentations/scheme-accu2018/scheme-accu2018.pdf) (PDF) Andy Balaam.
+* [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
 
-*****
+- **[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)** - Richard P. Gabriel
+
+- [The Art of Lisp & Writing](https://dreamsongs.com/ArtOfLisp.html)
+
+- [Build Your Own Lisp](https://builyouownlisp.com/) & [中文版 Chinese simplified](https://ksco.gitbooks.io/build-your-own-lisp/) 
+
+
+****
+
+附：
+
+- **The Little MLer** 
+  
+  <div>
+  <img width="125px" src="./images/MLer.jpg"> 
+  
+- **The Little Java, A Few Petterns**
+  
+  <div>
+  <img width="125px" src="./images/Java.jpg"> 
+  
+- **The Little Prover**
+  <div>
+  <img width="125px" src="./images/Prover.jpg"> 实现 J-Bob证明器
+  
+- **The Little Typer**
+  
+  <div>
+  <img align=left  width="125px" src="./images/Typer.jpg"> A little taste of Dependent Types
+  
+  
+  
+  
+
+
+
+
 
 <table>
 <tr>
@@ -339,7 +442,6 @@ The Original '**Lambda Papers**' by Guy Steele and Gerald Sussman<img width="45"
 <td><a href="http://ed-thelen.org/comp-hist/CBC.html"><div align=center><img width="125px" src="./images/Before.jpg"/></div></a></td>
 </tr>
 </table>
-
 
 
 

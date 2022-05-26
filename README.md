@@ -2,7 +2,6 @@
 
 ###### Song: ["God Wrote in Lisp"](http://www.prometheus-music.com/audio/eternalflame.mp3), [Lyrics](http://www.songworm.com/lyrics/songworm-parody/EternalFlame.html) by [Bob Kanefsky](http://www.songworm.com/songworm.html), sung by [Julia Ecklar](http://www.songworm.com/db/person/JuliaEcklar.html).
 
-**=>** [Scheme](#Scheme) | [Common Lisp](#Common Lisp) | [Clojure](#Clojure) | [Emacs Lisp](#Emacs Lisp) | [Racket](#Racket) | [miniKanren](#miniKanren) | [Emacs](#Emacs) 
 
 ### History:
 
@@ -159,7 +158,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 <td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="100px" src="./images/AI.jpg"></div></a></td>
 <td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="100px" src="./images/Symbolic.jpg"/></div></a></td>
 </table>
-- **Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS**   Sonja E. Keene 1989.
+- Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS.   Sonja E. Keene 1989.
 
 - 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
 
@@ -169,26 +168,17 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 Debian  Synaptic Package Manager
 
-> CL+Emacs+Slime+SBCL+Quicklisp
+> CL+Emacs+[SLIME](https://common-lisp.net/project/slime/)+[SBCL](http://sbcl.org/)+[Quicklisp](https://www.quicklisp.org/beta/) 最佳实践
 
 - [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
-
 - [Common Lisp programming: from novice to effective developer | Udemy](https://www.udemy.com/course/common-lisp-programming/) (付费)
-
 - [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) Grammarly Engineering Blog
-
 - [New York City Lisp User Group](http://www.lispnyc.org/learning-lisp) , [YouTube](https://www.youtube.com/channel/UCv33UlfX5S4PKxozGwUY_pA/videos)
-
 - [European Lisp Symposium](https://european-lisp-symposium.org) , [YouTube](https://www.youtube.com/c/EuropeanLispSymposium/videos)
-
 - [Lisp journey](https://lisp-journey.gitlab.io/):  [State of the Common Lisp ecosystem, 2020 🎉](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) 
-
 - [Common Lisp in Practice](http://atomized.org/blog/2020/07/06/common-lisp-in-practice/)
-
 - [How I got started with Common Lisp in 2017](https://anticrisis.github.io/2017/09/04/how-i-got-started-with-common-lisp-2017.html)
-
 - [ForumRoguelike tutorial for Common Lisp](https://nwforrer.github.io/categories/roguelike-tutorial/)
-
 - [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
 - [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
@@ -210,29 +200,26 @@ Debian  Synaptic Package Manager
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
 - [Akku.scm - Scheme package manager](https://akkuscm.org/)
 - 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
-- Steel Bank Common Lisp ([SBCL](http://sbcl.org/)) is a high performance Common Lisp compiler. [SBCL: a Sanely-Bootstrappable Common Lisp]()
 - Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
 - [GNU Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, [free/libre](https://www.gnu.org/philosophy/free-sw.html) text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 - [Lisp Style and Efficiency](https://www.cs.utexas.edu/users/novak/lispeff.html)
-- [SLIME](https://common-lisp.net/project/slime/): The Superior Lisp Interaction Mode for Emacs.
 - [Sly：Sylvester the Cat's Common Lisp IDE](https://joaotavora.github.io/sly/)
 - [Roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
 - [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
 - [restas](https://github.com/archimag/restas) Common Lisp  web framework
-- [Quicklisp](https://www.quicklisp.org/beta/)  is a library manager for Common Lisp. [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp 包管理
+- [Quickdocs](https://quickdocs.org/) Find Common Lisp librariesshipped by Quicklisp 包管理
 - [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/) 编程实现
 - [GNU Artanis](https://www.gnu.org/software/artanis/)  is a web application framework(WAF) written in Guile Scheme. [HardenedLinux / artanis](https://gitlab.com/hardenedlinux/artanis) 
 - [Allegro CL](https://franz.com/support/documentation/) 
 - [Corman Lisp](https://github.com/sharplispers/cormanlisp) is a Common Lisp development environment for Microsoft Windows operating systems running on Intel platforms. Corman Lisp consists of a Common Lisp native code compiler for Intel processors, 80x86 assembler and disassembler, incremental linker and multi-window text editor. It requires a system running a Microsoft Windows operating system (such as Windows XP, Windows 2000, Windows ME or Windows NT). It is fully integrated with the Win32 API, and all the Windows API functions are readily available from Lisp.
 - [cl-ppcre](https://github.com/edicl/cl-ppcre) Common Lisp regular expression library
 - [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
-- 👉 [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
+- [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
 - [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
 - [Embeddable Common-Lisp](https://ecl.common-lisp.dev/) is an interpreter of the Common-Lisp language as described in the X3J13 Ansi specification, featuring CLOS (Common-Lisp Object System), conditions, loops, etc, plus a translator to C, which can produce standalone executables.
 - [Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
 - [whirlog](https://github.com/codr7/whirlog) a minimal versioned log structured relational DB in Common Lisp
 - [LISP In Summer Projects](http://www.lispinsummerprojects.org/) 
-- [RUNNING MCCLIM AND OTHER LISP PACKAGES ON WINDOWS](
 
 
 ****
@@ -273,6 +260,7 @@ Robert C. Martin (Uncle Bob)：[Why Clojure?](http://blog.cleancoder.com/uncle-b
 
   <div>
   <img width="100" src="./images/reasoned.jpg/"> The Reasoned Schemer
+
 ****
 
 ### Emacs Lisp
@@ -281,7 +269,7 @@ Robert C. Martin (Uncle Bob)：[Why Clojure?](http://blog.cleancoder.com/uncle-b
 
 ****
 
-### Emacs
+### Emacs 编辑器
 
 [EmacsConf](https://emacsconf.org)
 
@@ -417,11 +405,10 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
   
   <div>
   <img align=left  width="125px" src="./images/Typer.jpg"> A little taste of Dependent Types
+   
   
   
   
-  
-
 
 
 

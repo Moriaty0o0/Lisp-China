@@ -63,7 +63,7 @@
 - [Scheme Reports](https://www.scheme-reports.org/)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/) 研讨会
 
-##### Video:
+##### Video：
 
 Learning SICP 公开课翻译项目 - https://learningsicp.github.io/ ; Eli Bendersky : [SICP](https://eli.thegreenplace.net/tag/sicp) 
 
@@ -98,7 +98,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 <td><a><div align=center><img width="100px" src="./images/logic.png"/></div></a></td>
 </tr>
 </table>
-
+- 《[Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745)》洪峰
 
 
 ****
@@ -125,13 +125,13 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 #### CL书籍教程：https://lisp-lang.org/books/
 
-<img width="50px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
+- <img width="50px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
 
-<img width="50px" src="./images/ANSI.jpg"/> ANSI Common Lisp & [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
+- <img width="50px" src="./images/ANSI.jpg"/> ANSI Common Lisp & [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
 
-<img width="50px" src="./images/onlisp.jpg"> On Lisp: Advanced Techniques for Common Lisp & [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
+- <img width="50px" src="./images/onlisp.jpg"> On Lisp: Advanced Techniques for Common Lisp & [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
 
-<img width="50px" src="./images/LetOverLambda.jpg"> [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
+- <img width="50px" src="./images/LetOverLambda.jpg"> [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
 
 <table>
 <tr>
@@ -226,11 +226,13 @@ Debian  Synaptic Package Manager
 
 ### Racket
 
+<img width="35" src="https://www.racket-lang.org/img/racket-logo.svg"> https://www.racket-lang.org/
+
 - [Racket News](https://racket-news.com/)
 
 - [Racket Stories](https://racket-stories.com/)
 
-- [Racket](https://racket-lang.org/) ，[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
+- [NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 
 ****
 
@@ -260,6 +262,9 @@ Robert C. Martin (Uncle Bob)：[Why Clojure?](http://blog.cleancoder.com/uncle-b
 
   <div>
   <img width="100" src="./images/reasoned.jpg/"> The Reasoned Schemer
+
+In this UnConf talk, Dan Friedman and William Byrd demonstrate the miniKanren logic programming system for Scheme. [bilibili](https://www.bilibili.com/video/BV1NW411f76M)
+
 
 ****
 

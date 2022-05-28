@@ -98,7 +98,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 <td><a><div align=center><img width="100px" src="./images/logic.png"/></div></a></td>
 </tr>
 </table>
-- 《[Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745)》洪峰
+- [Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745) 洪峰
 
 
 ****

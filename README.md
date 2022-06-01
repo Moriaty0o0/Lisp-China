@@ -56,9 +56,12 @@
 
 [Gauche](https://practical-scheme.net/gauche/) A Scheme Implementation
 
-标准版本：
+**标准版本**：
 
-- [R7RS Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report) 2011. [ the R7RS-small standard for the Scheme programming language](https://small.r7rs.org/) & [R7RS-large](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) & [R7RS Index](https://r7rsindex.com/)
+- [R5RS](https://schemers.org/Documents/Standards/R5RS/), 中文翻译[算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf).
+- R6RS 现实中已被放弃：[R7RS versus R6RS](https://weinholt.se/articles/r7rs-vs-r6rs/), 中文翻译[R6RS 算法语言Scheme修订6报告](https://r6rs.mrliu.org/).
+
+- [**R7RS** Scheme Progress Report](https://developers.slashdot.org/story/11/10/04/1942209/r7rs-scheme-progress-report), [ the **R7RS-small** standard for the Scheme programming language](https://small.r7rs.org/) & [**R7RS-large**](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) & [R7RS Index](https://r7rsindex.com/)
 - Scheme Requests for Implementation https://srfi.schemers.org/
 - [Scheme Reports](https://www.scheme-reports.org/)
 - [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/) 研讨会
@@ -67,16 +70,16 @@
 
 Learning SICP 公开课翻译项目 - https://learningsicp.github.io/ ; Eli Bendersky : [SICP](https://eli.thegreenplace.net/tag/sicp) 
 
-Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/), [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0).
+Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av36910308/), [youtube](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0); pdf[ Scheme Lisp - Feel the Cool](http://www.artificialworlds.net/presentations/scheme-accu2018/scheme-accu2018.pdf)
 
 ##### 学习资料：
 
-- [The Scheme Cookbook](https://cookbook.scheme.org/) 
-- [算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf) 王咏刚[R5RS](https://schemers.org/Documents/Standards/R5RS/)
-- [The evolution of a Scheme programmer](https://erkin.party/blog/200715/evolution/) 
+- [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html): Introducing Computer Science
 
-- [Yet Another Scheme Tutorial](http://www.shido.info/index_e.html) & 中文翻译 [Scheme入门教程](https://deathking.github.io/yast-cn/)
-- [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html) & 中文翻译 [Scheme语言简明教程](https://songjinghe.github.io/TYS-zh-translation/) 
+- [The Scheme Cookbook](https://cookbook.scheme.org/) 
+- [The evolution of a Scheme programmer](https://erkin.party/blog/200715/evolution/) 
+- [Yet Another Scheme Tutorial](http://www.shido.info/index_e.html) & 中文翻译[Scheme入门教程](https://deathking.github.io/yast-cn/)
+- [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index.html) & 中文翻译[Scheme语言简明教程](https://songjinghe.github.io/TYS-zh-translation/) 
 
 <table>
 <tr>
@@ -98,7 +101,11 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 <td><a><div align=center><img width="100px" src="./images/logic.png"/></div></a></td>
 </tr>
 </table>
-- [Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745) 洪峰
+
+- 洪峰：[Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745)
+- [SICP解题集](https://sicp.readthedocs.io/en/latest/) 
+- [SICP Python 描述 中文版](https://wizardforcel.gitbooks.io/sicp-py/content/) 
+- [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
 
 
 ****
@@ -115,13 +122,21 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 [Common Lisp: The Untold Story](http://www.nhplace.com/kent/Papers/cl-untold-story.html) Kent M. Pitman
 
-学习路径： [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
+[CLiki](https://cliki.net/): the common lisp wiki
 
-播客:<img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
+**学习路径**：
 
-播客:<img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
+- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
 
-播客:<img width="35" src="https://imagev2.xmcdn.com/group17/M05/63/28/wKgJJFeeYafS-qUNAAIYz2ivNpY134.jpg"> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
+- [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html) 
+
+**播客**:
+
+- <img width="45px" src="https://i.typlog.com/pythonhunter/8444690454_041962.png"/> Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
+
+- <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
+
+- <img width="35" src="https://imagev2.xmcdn.com/group17/M05/63/28/wKgJJFeeYafS-qUNAAIYz2ivNpY134.jpg"> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
 
 #### CL书籍教程：https://lisp-lang.org/books/
 
@@ -158,10 +173,9 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 <td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="100px" src="./images/AI.jpg"></div></a></td>
 <td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="100px" src="./images/Symbolic.jpg"/></div></a></td>
 </table>
+- Loving Common Lisp, or the Savvy Programmer's Secret Weapon
 - Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS.   Sonja E. Keene 1989.
-
 - 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
-
 - 《LISP语言》陈光喜，2005年09. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
 
 #### CL生态：
@@ -170,6 +184,7 @@ Debian  Synaptic Package Manager
 
 > CL+Emacs+[SLIME](https://common-lisp.net/project/slime/)+[SBCL](http://sbcl.org/)+[Quicklisp](https://www.quicklisp.org/beta/) 最佳实践
 
+- [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
 - [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
 - [Common Lisp programming: from novice to effective developer | Udemy](https://www.udemy.com/course/common-lisp-programming/) (付费)
 - [Running Lisp in Production](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) Grammarly Engineering Blog
@@ -202,7 +217,6 @@ Debian  Synaptic Package Manager
 - 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 - Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
 - [GNU Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, [free/libre](https://www.gnu.org/philosophy/free-sw.html) text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
-- [Lisp Style and Efficiency](https://www.cs.utexas.edu/users/novak/lispeff.html)
 - [Sly：Sylvester the Cat's Common Lisp IDE](https://joaotavora.github.io/sly/)
 - [Roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
 - [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
@@ -304,21 +318,16 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
 
 ****
 
-### PL Podcasts：    
+### Podcasts：    
 
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——http://www.se-radio.net/2006/11/episode-36-interview-guy-steele/ 嘉宾：Guy Steele
-
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/ 嘉宾: Richard P. Gabriel
-
   * <img width="50px" src="./images/SERadio.png"/> Software Engineering Radio——https://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/ 嘉宾: Rich Hickey
-
   * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
-
-  * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/023/action-320-8edb6f3e2.webp"> [The Little Typer](https://corecursive.com/023-little-typer-and-pie-language/) with Dan Friedman and David Christiansen
-
-  * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/021/action-320-8af59caee.webp"> [God's Programming Language](https://corecursive.com/021-gods-programming-language-with-philip-wadler/) with Philip Wadler
-
-  * CoRecursive Podcast <img width="35" src="https://corecursive.com/assets/generated/039/action-320-ae1f55081.webp"> [Language Oriented Design](https://corecursive.com/039-hal-abelson-sicp/#scheme) discussing SICP with Hal Abelson
+  * CoRecursive Podcast： [The Little Typer](https://corecursive.com/023-little-typer-and-pie-language/) with Dan Friedman and David Christiansen
+  * CoRecursive Podcast： [God's Programming Language](https://corecursive.com/021-gods-programming-language-with-philip-wadler/) with Philip Wadler
+  * CoRecursive Podcast： [Language Oriented Design](https://corecursive.com/039-hal-abelson-sicp/#scheme) discussing SICP with Hal Abelson
+  * CoRecursive Podcast： [LISP in Space With Ron Garret](https://corecursive.com/lisp-in-space-with-ron-garret/) 
 
 ### Video：
 
@@ -346,6 +355,10 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
 | Brown | [Programming and Programming Languages](https://papl.cs.brown.edu/2020/) | Shriram Krishnamurthi ... |
 | Harvard | [History of Programming Languages](https://groups.seas.harvard.edu/courses/cs252/2016fa/) | Christos Dimoulas |
 | Syracuse | [Programming Languages: Theory and Practice](http://www.cis.syr.edu/courses/cis352/) |  |
+| Vancouver Island University | CSCI 330: Programming Languages | [Common lisp by examples](http://csci.viu.ca/~wesselsd/courses/csci330/code/lisp/index.html) |
+| George Mason University | [Lisp at GMU](https://cs.gmu.edu/~sean/lisp/) |  |
+| Northwestern University | [CS 325 AI Programming](https://courses.cs.northwestern.edu/325/readings/readings.php) |  |
+| utexas | [CS 394P: Lisp Notes](https://www.cs.utexas.edu/users/novak/cs394plisp.html) | <img width="35" src="https://www.cs.utexas.edu/~novak/novakb.jpg"> [Gordon S. Novak Jr.](https://www.cs.utexas.edu/~novak/) |
 
 ### Journal：
 
@@ -359,11 +372,9 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
   * Eric Normand:  [Lisp with Macros is Two Languages](https://ericnormand.me/article/lisp-with-macros-language-stack)
   * [History of Lisp](http://lambda-the-ultimate.org/node/5548) | Lambda the Ultimate
   * [Research in Programming Languages](http://lambda-the-ultimate.org/node/4469) | Lambda the Ultimate
-  * [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html) 
-  * [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
+  * Gordon S. Novak Jr. [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
+  * Gordon S. Novak Jr. [Lisp Style and Efficiency](https://www.cs.utexas.edu/users/novak/lispeff.html)
   * [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
-  * [Scheme vs. Python](https://people.eecs.berkeley.edu/~bh/proglang.html)
-  * [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
   * [An Intuition for Lisp Syntax](https://stopa.io/post/265)
   * [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/) & [编程语言中的 6 种内存模型（2016）](https://arthurchiao.art/blog/memory-models-underlie-programming-languages-zh/)
   * [Can Lisp Macro Change Lisp Syntax?](http://xahlee.info/comp/lisp_syntax_macro_reader.html)
@@ -376,10 +387,7 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
   * The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
   * [Nils M Holm's Ephemeralia](https://t3x.org/)
 * [LISP FROM NOTHING](http://t3x.org/lfn/)
-* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
-* [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane 
-* [Scheme Lisp - Feel the Cool](http://www.artificialworlds.net/presentations/scheme-accu2018/scheme-accu2018.pdf) (PDF) Andy Balaam.
-* [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
+* [Lisp in Small Parts](http://lisp.plasticki.com/) Zach Beane
 
 - **[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)** - Richard P. Gabriel
 
@@ -414,27 +422,4 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
   
   
   
-
-
-
-
-<table>
-<tr>
-<th><a>A History of Modern Computing</a></th> 
-<th><a>Computing A Concise History</a></th>
-<th><a>The First Computers -- History and Architectures</a></th>
-<th><a>A Science of Operations： Machines, Logic and the Invention of Programming</a></th>
-<th><a>Computing Before Computers</a></th>
-</tr>
-<tr>
-<td><a href=""><div align=center><img width="125px" src="./images/Ceruzzi.jpg"></div></a>
-<td><a href=""><div align=center><img width="125px" src="./images/Computing.jpg"/></div></a></td>
-<td><a href=""><div align=center><img width="125px" src="./images/Rojas.jpg"/></div></a></td>
-<td><a><div align=center><img width="125px" src="./images/Priestley.jpg"/></div></a></td>
-<td><a href="http://ed-thelen.org/comp-hist/CBC.html"><div align=center><img width="125px" src="./images/Before.jpg"/></div></a></td>
-</tr>
-</table>
-
-
-
-![stars](https://starchart.cc/alaskasquirrel/lisp-china.svg)
+  

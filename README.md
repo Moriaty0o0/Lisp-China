@@ -56,6 +56,8 @@
 
 [Gauche](https://practical-scheme.net/gauche/) A Scheme Implementation
 
+[CHICKEN Scheme](https://call-cc.org/) a practical and portable scheme system
+
 **标准版本**：
 
 - [R5RS](https://schemers.org/Documents/Standards/R5RS/), 中文翻译[算法语言 Scheme 修订5报告 [PDF]](https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf).
@@ -126,9 +128,10 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 **学习路径**：
 
-- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/)
-
+- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/) 
+- [An Introduction and Tutorial for Common Lisp](https://github.com/Lisp-Life/tutorial)
 - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html) 
+- [CS 325 AI Programming](https://courses.cs.northwestern.edu/325/readings/readings.php) Readings
 
 **播客**:
 
@@ -138,51 +141,81 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 - <img width="35" src="https://imagev2.xmcdn.com/group17/M05/63/28/wKgJJFeeYafS-qUNAAIYz2ivNpY134.jpg"> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
 
-#### CL书籍教程：https://lisp-lang.org/books/
+#### CL书籍教程：https://lisp-lang.org/books/ 
 
-- <img width="50px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
+- **Successful Lisp: How to Understand and Use Common Lisp**
+  
+  <div>
+  <img width="75px" src="./images/successful.jpg"/> https://levselector.com/lisp_success.html
+  
+-  **Common Lisp: A Gentle Introduction to Symbolic Computation**
+  <div>
+  <img width="75px" src="./images/Symbolic.jpg"/> 
 
-- <img width="50px" src="./images/ANSI.jpg"/> ANSI Common Lisp & [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) 
+- <img width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> [Practical Common Lisp笔记](https://jamsa.github.io/post/lisp/practical_common_lisp/) 
 
-- <img width="50px" src="./images/onlisp.jpg"> On Lisp: Advanced Techniques for Common Lisp & [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) ( Common LIsp 高级编程技术 )
+-  **Common Lisp Recipes: A Problem-Solution Approach**
+  
+  <div>
+  <img width="75px" src="./images/recipes.jpg/"> 
+  
+- <img width="75px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
 
-- <img width="50px" src="./images/LetOverLambda.jpg"> [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) 
+- <img width="75px" src="./images/ANSI.jpg"/> [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) ; [ANSI Common Lisp 笔记](https://dirtysalt.github.io/html/ansi-common-lisp.html) ; ["ANSI Common LISP" Answer for Practice](https://www.shido.info/lisp/pacl2_e.html)
 
-<table>
-<tr>
-<th><a>Successful Lisp:How to Understand and Use Common lisp</a></th>
-<th><a>Common Lisp Recipes：A Problem-Solution Approach</a></th> 
-<th><a>Programming Algorithms in Lisp</a></th>
-<th><a>The Common Lisp Condition System</a></th> 
-</tr>
-<tr>
-<td><a><div align=center><img width="100px" src="./images/successful.jpg"/></div></a></td>
-<td><a href=""><div align=center><img width="100px" src="./images/recipes.jpg/"></div></a>
-<td><a href="https://github.com/Apress/programming-algorithms-lisp"><div align=center><img width="100px" src="./images/algorithms.jpeg/"></div></a>
-<td><a href=""><div align=center><img width="100px" src="./images/Condition.jpg"/></div></a></td>
-</tr>
-<tr>
-<th><a>Common Lisp the Language, 2nd Edition</a></th>
-<th><a>Practical Common Lisp & 实用Common Lisp编程</a></th>
-<th><a>Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a></th>
-<th><a>Common Lisp: A Gentle Introduction to Symbolic Computation</a></th>
-</tr>
-<tr>
-<td><a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html"><div align=center><img width="100px" src="./images/CL.jpg"/></div></a></td>
-<td><a href="http://www.gigamonkeys.com/book/"><img width="100px" src="./images/practical.jpg"/></a><a href="https://binghe.github.io/pcl-cn/"><img width="105px" src="./images/实用.jpg"/></a></td>
-<td><a href="https://github.com/norvig/paip-lisp"><div align=center><img width="100px" src="./images/AI.jpg"></div></a></td>
-<td><a href="http://www.cs.cmu.edu/~dst/LispBook/"><div align=center><img width="100px" src="./images/Symbolic.jpg"/></div></a></td>
-</table>
+- <img width="75px" src="./images/onlisp.jpg"> [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) Common LIsp 高级编程技术
+
+- <img width="75px" src="./images/LetOverLambda.jpg"> [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) ; [Let Over Lambda 笔记](https://abbypan.github.io/2013/12/13/lisp-let-over-lambda)
+
+- <img width="75px" src="./images/algorithms.jpeg/"> >Programming Algorithms in Lisp
+
+- <img width="75px" src="./images/Condition.jpg"/> The Common Lisp Condition System
+
+- <img width="75" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) ; [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
+
+- <img width="75px" src="./images/CL.jpg"/> [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
+
+- Common Lisp Quick Reference
+
+- [Simplified Common Lisp reference](https://jtra.cz/stuff/lisp/sclr/)
+
+- [Common Lisp Syntax reference](https://jtra.cz/stuff/lisp/hypergrep/hypergrep.html)
+
 - Loving Common Lisp, or the Savvy Programmer's Secret Weapon
-- Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS.   Sonja E. Keene 1989.
-- 《LISP语言》马希文 <img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> ( [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) ) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
+
+- Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS. [中文翻译](https://github.com/uternet/oop-in-cl)  
+
+- 《LISP语言》<img width="35" src="https://www.math.pku.edu.cn/teachers/mxw/maxiwen.jpg"> [马希文教授纪念网站](http://www.math.pku.edu.cn/teachers/mxw/) 宋柔 编著，高等教育出版社，1990年7月第1版. 在改革开放伊始，马老师作为首批访问学者便抵达斯坦福大学AI实验室，与John McCarthy共事。这个时候的LISP标准化工作还未完成，这本书所依据的方言是DCLISP。全书共分十四章，一至三章介绍LISP的基本的语法、语义，S表达式的概念，以及LISP的核心部分LISP1；四至十章主要讨论LISP的函数程序设计部分；十四章介绍LISP中的一些高级成分和高级应用（实现模式传递参数机制，实现逻辑型语言和泛函型语言）。
+
 - 《LISP语言》陈光喜，2005年09. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
+
+- Building Problem Solvers
+
+- <img width="75px" src="./images/AI.jpg"> [《AI编程范例：Common Lisp实例研究》前言和书评](https://site.douban.com/145723/widget/notes/192921861/note/628959172/) 
+
+- [Learn Lisp The Hard Way](https://github.com/thephoeron/LLTHW) source-code and full book text
+
+- [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
+
+- [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
+
+- [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
+
 
 #### CL生态：
 
 Debian  Synaptic Package Manager
 
-> CL+Emacs+[SLIME](https://common-lisp.net/project/slime/)+[SBCL](http://sbcl.org/)+[Quicklisp](https://www.quicklisp.org/beta/) 最佳实践
+- [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
+- [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
+- [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
+- [Corman Lisp](https://github.com/sharplispers/cormanlisp) is a Common Lisp development environment for Microsoft Windows operating systems 
+
+> Common Lisp + [Emacs](https://www.gnu.org/software/emacs/) + [SLIME](https://common-lisp.net/project/slime/) + [SBCL](http://sbcl.org/) + [Quicklisp](https://www.quicklisp.org/beta/) 最佳实践
+
+- [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
+
+项目实例：[Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
 
 - [Answers from 2017 Common Lisp experts](https://blog.teknik.io/phoe/p/365)
 - [Programming in the Common Lisp Ecosystem](https://tychoish.com/post/programming-in-the-common-lisp-ecosystem/)
@@ -197,8 +230,6 @@ Debian  Synaptic Package Manager
 - [CLiki: cl-launch](https://www.cliki.net/CL-Launch) is a [unix](https://www.cliki.net/unix) utility to make your Lisp software easily invokable from the shell command-line.
 - [Discover trending Common Lisp open-source projects](https://www.libhunt.com/l/common-lisp)
 - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) 
-- <img width="50" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) 
-- [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP)
 - [Common Lisp Libraries](https://common-lisp-libraries.readthedocs.io/)
 - [Common Lisp Libraries by Edi Weitz](https://edicl.github.io/)
@@ -208,15 +239,10 @@ Debian  Synaptic Package Manager
 - [Planet Lisp](http://planet.lisp.org/) is a meta blog that collects the contents of various Lisp-related blogs.
 - [Planet SBCL](http://planet.sbcl.org/) s a meta blog that collects the contents of various SBCL-related blogs.
 - [Quicklisp news](http://blog.quicklisp.org/)
-- [Portacle](https://portacle.github.io/) - A Portable Common Lisp Development Environment.
-- [Lispbox](https://common-lisp.net/project/lispbox/) is an IDE for Common Lisp development.
-- [clasp](https://github.com/clasp-developers/clasp) Common Lisp environment
-- [CHICKEN Scheme](https://call-cc.org/) a practical and portable scheme system
 - [Clozure Common Lisp](https://ccl.clozure.com/) is a free Common Lisp implementation
 - [Akku.scm - Scheme package manager](https://akkuscm.org/)
-- 🖨️ [LispWorks](http://www.lispworks.com/) Integrated cross-platform development tool for Common Lisp. [awesome lispworks](https://github.com/fourier/awesome-lispworks)
 - Armed Bear Common Lisp ([ABCL](https://abcl.org/)) is a full implementation of the Common Lisp language featuring both an interpreter and a compiler, running in the JVM. Originally started to be a scripting language for the J editor, it now supports JSR-223 (Java scripting API): it can be a scripting engine in any Java application. Additionally, it can be used to implement (parts of) the application using Java to Lisp integration APIs. [Reddit: ABCL Common Lisp vs Clojure](https://lisp-journey.gitlab.io/blog/reddit-abcl-common-lisp-vs-clojure/)
-- [GNU Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, [free/libre](https://www.gnu.org/philosophy/free-sw.html) text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+- An extensible, customizable, [free/libre](https://www.gnu.org/philosophy/free-sw.html) text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 - [Sly：Sylvester the Cat's Common Lisp IDE](https://joaotavora.github.io/sly/)
 - [Roswell](https://github.com/roswell/roswell): intended to be a launcher for a major lisp environment that just works.
 - [clog](https://github.com/rabbibotton/clog) \- The Common Lisp Omnificent GUI
@@ -225,14 +251,8 @@ Debian  Synaptic Package Manager
 - [GNU's programming and extension language — GNU Guile](https://www.gnu.org/software/guile/) 编程实现
 - [GNU Artanis](https://www.gnu.org/software/artanis/)  is a web application framework(WAF) written in Guile Scheme. [HardenedLinux / artanis](https://gitlab.com/hardenedlinux/artanis) 
 - [Allegro CL](https://franz.com/support/documentation/) 
-- [Corman Lisp](https://github.com/sharplispers/cormanlisp) is a Common Lisp development environment for Microsoft Windows operating systems running on Intel platforms. Corman Lisp consists of a Common Lisp native code compiler for Intel processors, 80x86 assembler and disassembler, incremental linker and multi-window text editor. It requires a system running a Microsoft Windows operating system (such as Windows XP, Windows 2000, Windows ME or Windows NT). It is fully integrated with the Win32 API, and all the Windows API functions are readily available from Lisp.
 - [cl-ppcre](https://github.com/edicl/cl-ppcre) Common Lisp regular expression library
-- [Starting a minimal Common Lisp project | notes.eatonphil.com](https://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html) 
-- [Debugging lisp](https://malisper.me/category/debugging-common-lisp/)
-- [Loops in Lisp](https://malisper.me/category/loops-in-lisp/)
 - [Embeddable Common-Lisp](https://ecl.common-lisp.dev/) is an interpreter of the Common-Lisp language as described in the X3J13 Ansi specification, featuring CLOS (Common-Lisp Object System), conditions, loops, etc, plus a translator to C, which can produce standalone executables.
-- [Learn Common Lisp by Example: Qt GUI with EQL5](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5) 
-- [whirlog](https://github.com/codr7/whirlog) a minimal versioned log structured relational DB in Common Lisp
 - [LISP In Summer Projects](http://www.lispinsummerprojects.org/) 
 
 
@@ -259,6 +279,8 @@ Debian  Synaptic Package Manager
 [Planet Clojure](http://planet.clojure.in/) is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
 
 [The Clojure Philosophy](http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/)
+
+[Community-Powered Clojure Documentation and Examples | ClojureDocs](https://clojuredocs.org/)
 
 Elango Cheran：[Why Clojure (Lisp) is good for writing transpilers](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/) 
 
@@ -355,10 +377,8 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
 | Brown | [Programming and Programming Languages](https://papl.cs.brown.edu/2020/) | Shriram Krishnamurthi ... |
 | Harvard | [History of Programming Languages](https://groups.seas.harvard.edu/courses/cs252/2016fa/) | Christos Dimoulas |
 | Syracuse | [Programming Languages: Theory and Practice](http://www.cis.syr.edu/courses/cis352/) |  |
-| Vancouver Island University | CSCI 330: Programming Languages | [Common lisp by examples](http://csci.viu.ca/~wesselsd/courses/csci330/code/lisp/index.html) |
+| Vancouver Island University | CSCI 330: Programming Languages | [Common lisp by examples](http://csci.viu.ca/~wesselsd/courses/csci330/code/lisp/index.html) ; [Common Lisp By Example](https://github.com/gypsydave5/common-lisp-by-example) |
 | George Mason University | [Lisp at GMU](https://cs.gmu.edu/~sean/lisp/) |  |
-| Northwestern University | [CS 325 AI Programming](https://courses.cs.northwestern.edu/325/readings/readings.php) |  |
-| utexas | [CS 394P: Lisp Notes](https://www.cs.utexas.edu/users/novak/cs394plisp.html) | <img width="35" src="https://www.cs.utexas.edu/~novak/novakb.jpg"> [Gordon S. Novak Jr.](https://www.cs.utexas.edu/~novak/) |
 
 ### Journal：
 
@@ -373,6 +393,7 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
   * [History of Lisp](http://lambda-the-ultimate.org/node/5548) | Lambda the Ultimate
   * [Research in Programming Languages](http://lambda-the-ultimate.org/node/4469) | Lambda the Ultimate
   * Gordon S. Novak Jr. [Scheme vs. Common Lisp](http://www.cs.utexas.edu/~novak/schemevscl.html) 
+  * [Gordon S. Novak Jr.](https://www.cs.utexas.edu/~novak/) [CS 394P: Lisp Notes](https://www.cs.utexas.edu/users/novak/cs394plisp.html)
   * Gordon S. Novak Jr. [Lisp Style and Efficiency](https://www.cs.utexas.edu/users/novak/lispeff.html)
   * [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
   * [An Intuition for Lisp Syntax](https://stopa.io/post/265)
@@ -405,16 +426,16 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
   <div>
   <img width="125px" src="./images/MLer.jpg"> 
   
-- **The Little Java, A Few Petterns**
+-  **The Little Java, A Few Petterns**
   
   <div>
   <img width="125px" src="./images/Java.jpg"> 
   
-- **The Little Prover**
+-  **The Little Prover**
   <div>
   <img width="125px" src="./images/Prover.jpg"> 实现 J-Bob证明器
   
-- **The Little Typer**
+-  **The Little Typer**
   
   <div>
   <img align=left  width="125px" src="./images/Typer.jpg"> A little taste of Dependent Types

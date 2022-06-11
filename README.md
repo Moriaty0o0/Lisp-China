@@ -151,10 +151,16 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 #### 书籍教程：https://lisp-lang.org/books/ 
 
-- **Successful Lisp: How to Understand and Use Common Lisp**
+- **[Successful Lisp: How to Understand and Use Common Lisp](https://levselector.com/lisp_success.html)**
   
   <div>
-  <img width="75px" src="./images/successful.jpg"/> https://levselector.com/lisp_success.html
+  <img align=left width="75px" src="./images/successful.jpg"/> 这本书可以作为Common Lisp的入门教程，语言浅显易懂，示例也很到位，没有什么废话。 把Lisp的基本特性表述的很完整。
+  
+  ​    
+  
+     
+  
+  
   
 -  **Common Lisp: A Gentle Introduction to Symbolic Computation**
   
@@ -162,23 +168,37 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
   <img width="75px" src="./images/Symbolic.jpg"/> 
 
 -  **Common Lisp Recipes: A Problem-Solution Approach**
+  
   <div>
   <img width="75px" src="./images/recipes.jpg/"> 
-
+  
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
+  
   <div>
   <img width="75px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> 
-
+  
 - [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) ; [ANSI Common Lisp 笔记](https://dirtysalt.github.io/html/ansi-common-lisp.html) ; ["ANSI Common LISP" Answer for Practice](https://www.shido.info/lisp/pacl2_e.html)
   <div>
-  <img width="75px" src="./images/ANSI.jpg"/> 
+  <img align=left width="75px" src="./images/ANSI.jpg"/> 入门教程。 主要是讲Common Lisp的语法的。适合初学者阅读，书后的附录很有参考价值。 可快速阅读，该书只有英文版，没有 Successful Lisp 生动，但是书很薄，作为快速入门的途径不错。
 
--  [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) - Common LIsp 高级编程技术
-  
+  ​    
+
+
+
+
+- [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) - Common LIsp 高级编程技术
+
   <div>
-  <img width="75px" src="./images/onlisp.jpg">
-  
+  <img align=left width="75px" src="./images/onlisp.jpg"> 该书适合对Lisp有一定基础的同学，Lisp进阶的必读书籍。
+
+  ​    
+
+
+
+
+
 - [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) ; [Let Over Lambda 笔记](https://abbypan.github.io/2013/12/13/lisp-let-over-lambda)
+
   <div>
   <img width="75px" src="./images/LetOverLambda.jpg"> 
 
@@ -205,8 +225,11 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
   <img width="75px" src="./images/AI.jpg"> 
 
 - [Practical Common Lisp笔记](https://jamsa.github.io/post/lisp/practical_common_lisp/) 
+
   <div>
-  <img width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> 
+  <img align=left width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> 废话多，前3章值得阅读。 最后几章的例子可以阅读。中间章节废话过多。 
+
+  ​    
 
 - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) & [Google Common Lisp 风格指南](https://juanitofatas.github.io/Google-Common-Lisp-Style-Guide/GoogleCLSG-zhCN.xml) 
 

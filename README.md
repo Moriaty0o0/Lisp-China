@@ -125,15 +125,15 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 [A Critique of Common Lisp (1984)](https://www.dreamsongs.com/Files/clcrit.pdf) 
 
-[Common Lisp Object System](https://dreamsongs.com/CLOS.html)  Richard P. Gabriel
+[Richard P. Gabriel](https://dreamsongs.com/)： [Common Lisp Object System](https://dreamsongs.com/CLOS.html).
 
-[Common Lisp: The Untold Story](http://www.nhplace.com/kent/Papers/cl-untold-story.html) Kent M. Pitman
+[Kent M. Pitman](http://www.nhplace.com/kent/Papers/)： [Common Lisp: The Untold Story](http://www.nhplace.com/kent/Papers/cl-untold-story.html).
 
-[CLiki](https://cliki.net/): the common lisp wiki
+[CLiki](https://cliki.net/): the Common Lisp Wiki
 
 **学习路径**：
 
-- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/) 
+- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/) 
 - [An Introduction and Tutorial for Common Lisp](https://github.com/Lisp-Life/tutorial)
 - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html) 2013
 - [CS 325 AI Programming](https://courses.cs.northwestern.edu/325/readings/readings.php) Readings
@@ -151,86 +151,66 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 #### 书籍教程：https://lisp-lang.org/books/ 
 
-- **[Successful Lisp: How to Understand and Use Common Lisp](https://levselector.com/lisp_success.html)**
-  
+- [Successful Lisp: How to Understand and Use Common Lisp](https://levselector.com/lisp_success.html)
+
   <div>
-  <img align=left width="75px" src="./images/successful.jpg"/> 这本书可以作为Common Lisp的入门教程，语言浅显易懂，示例也很到位，没有什么废话。 把Lisp的基本特性表述的很完整。
+  <img width="75px" src="./images/successful.jpg"> 入门教程，文书浅显易懂，示例讲解到位，将Lisp的基本特性表述的很完整。
   
-  ​    
-  
-     
-  
-  
-  
--  **Common Lisp: A Gentle Introduction to Symbolic Computation**
+- Common Lisp: A Gentle Introduction to Symbolic Computation
   
   <div>
   <img width="75px" src="./images/Symbolic.jpg"/> 
 
--  **Common Lisp Recipes: A Problem-Solution Approach**
-  
+- [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) ; [ANSI Common Lisp 笔记](https://dirtysalt.github.io/html/ansi-common-lisp.html) ; ["ANSI Common LISP" Answer  for Practice](https://www.shido.info/lisp/pacl2_e.html)
   <div>
-  <img width="75px" src="./images/recipes.jpg/"> 
+  <img width="75px" src="./images/ANSI.jpg"/> 基本上覆盖了Common Lisp大部分的语言特性。适合初学者阅读，书后的附录很有参考价值。​   
+  
+- Common Lisp Recipes: A Problem-Solution Approach
+  <div>
+  <img width="75px" src="./images/recipes.jpg/"> 进阶内容，不适合初学者，未讲述CL基础，且不谈及宏。
   
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
-  
   <div>
   <img width="75px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> 
   
-- [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) ; [ANSI Common Lisp 笔记](https://dirtysalt.github.io/html/ansi-common-lisp.html) ; ["ANSI Common LISP" Answer for Practice](https://www.shido.info/lisp/pacl2_e.html)
+- [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)：Common LIsp 高级编程技术
   <div>
-  <img align=left width="75px" src="./images/ANSI.jpg"/> 入门教程。 主要是讲Common Lisp的语法的。适合初学者阅读，书后的附录很有参考价值。 可快速阅读，该书只有英文版，没有 Successful Lisp 生动，但是书很薄，作为快速入门的途径不错。
-
-  ​    
-
-
-
-
-- [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download) - Common LIsp 高级编程技术
-
-  <div>
-  <img align=left width="75px" src="./images/onlisp.jpg"> 该书适合对Lisp有一定基础的同学，Lisp进阶的必读书籍。
-
-  ​    
-
-
-
-
-
+  <img width="75px" src="./images/onlisp.jpg"> 该书适合对Lisp有一定基础的同学，Lisp进阶的必读书籍。
+  
 - [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) ; [Let Over Lambda 笔记](https://abbypan.github.io/2013/12/13/lisp-let-over-lambda)
-
   <div>
-  <img width="75px" src="./images/LetOverLambda.jpg"> 
-
+  <img width="75px" src="./images/LetOverLambda.jpg"> 书评https://www.douban.com/group/topic/101579766/ ； 在《On Lisp》的基础之上专门介绍macro的原理和使用。    
+  
 - Programming Algorithms in Lisp
   <div>
   <img width="75px" src="./images/algorithms.jpeg/"> 
-
+  
 - The Common Lisp Condition System
   <div>
   <img width="75px" src="./images/Condition.jpg"/> 
-
+  
 - [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) ; [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
   <div>
   <img width="75" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> 
-
+  
 - [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
   <div>
   <img width="75px" src="./images/CL.jpg"/> 
-
+  
 - Building Problem Solvers
-
-- [《AI编程范例：Common Lisp实例研究》前言和书评](https://site.douban.com/145723/widget/notes/192921861/note/628959172/) 
   <div>
-  <img width="75px" src="./images/AI.jpg"> 
+  <img width="75px" src="./images/Building.jpg/"> "古典人工智能"，严肃专著
+  
+- [《AI编程范例：Common Lisp实例研究》前言和书评](https://site.douban.com/145723/widget/notes/192921861/note/628959172/) 
 
+  <div>
+  <img width="75px" src="./images/AI.jpg"> "古典人工智能"，流行读物
+  
 - [Practical Common Lisp笔记](https://jamsa.github.io/post/lisp/practical_common_lisp/) 
 
   <div>
-  <img align=left width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> 废话多，前3章值得阅读。 最后几章的例子可以阅读。中间章节废话过多。 
-
-  ​    
-
+  <img width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> 前3章值得阅读，中间章节略显拖沓，最后几章的实例可以阅读。
+  
 - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) & [Google Common Lisp 风格指南](https://juanitofatas.github.io/Google-Common-Lisp-Style-Guide/GoogleCLSG-zhCN.xml) 
 
 - Common Lisp Quick Reference
@@ -482,24 +462,24 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
 
 附：
 
-- **The Little MLer** 
+- The Little MLer
   
   <div>
   <img width="125px" src="./images/MLer.jpg"> 
   
--  **The Little Java, A Few Petterns**
+-  The Little Java, A Few Petterns
   
   <div>
   <img width="125px" src="./images/Java.jpg"> 
   
--  **The Little Prover**
+-  The Little Prover
   <div>
   <img width="125px" src="./images/Prover.jpg"> 实现 J-Bob证明器
   
--  **The Little Typer**
+-  The Little Typer
   
   <div>
-  <img align=left  width="125px" src="./images/Typer.jpg"> A little taste of Dependent Types
+  <img width="125px" src="./images/Typer.jpg"> A little taste of Dependent Types
    
   
   

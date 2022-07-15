@@ -133,6 +133,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 **学习路径**：
 
+- [Common Lisp: An short introduction on most interesting parts](https://github.com/Lisp-Life/Lisp-China/blob/master/PDF/%E3%80%88Common%20Lisp%EF%BC%9AAn%20short%20introduction%20on%20most%20interesting%20parts%E3%80%89%20%EF%BC%88%E7%94%B0%E6%98%A5%E5%88%B6%EF%BC%892012%E5%B9%B410%E6%9C%88%20%E6%B5%99%E5%A4%A7%E8%AE%B2%E5%BA%A7PPT.pdf) 田春.
 - [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) & [中文翻译版 Chinese simplified](https://keer2345.github.io/2019/03/10/lisp-A-Road-to-Common-Lisp/) 
 - [An Introduction and Tutorial for Common Lisp](https://github.com/Lisp-Life/tutorial)
 - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html) 2013
@@ -159,7 +160,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 - Common Lisp: A Gentle Introduction to Symbolic Computation
   
   <div>
-  <img width="75px" src="./images/Symbolic.jpg"/> 
+  <img width="75px" src="./images/Symbolic.jpg"/> 一本相当给力的 Lisp 入门书，以 Common Lisp 方言为表述载体。
 
 - [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) ; [ANSI Common Lisp 笔记](https://dirtysalt.github.io/html/ansi-common-lisp.html) ; ["ANSI Common LISP" Answer  for Practice](https://www.shido.info/lisp/pacl2_e.html)
   <div>
@@ -167,15 +168,16 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
   
 - Common Lisp Recipes: A Problem-Solution Approach
   <div>
-  <img width="75px" src="./images/recipes.jpg/"> 进阶内容，不适合初学者，未讲述CL基础，且不谈及宏。
+  <img width="75px" src="./images/recipes.jpg/"> 进阶内容，不适合初学者，未讲述CL基础，且不谈及宏，偏向实践。
   
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) & [中文翻译  Chinese simplified](https://oneforalone.github.io/cl-cookbook-cn)
   <div>
   <img width="75px" src="https://lisp-lang.org/assets/img/books/covers/cookbook.png"> 
   
 - [中文翻译 Chinese simplified](https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download)：Common LIsp 高级编程技术
+  
   <div>
-  <img width="75px" src="./images/onlisp.jpg"> 该书适合对Lisp有一定基础的同学，Lisp进阶的必读书籍。
+  <img width="75px" src="./images/onlisp.jpg"> 该书适合对Lisp有一定基础的同学，Lisp进阶的必读书籍，详细介绍了 Lisp 独有的宏。
   
 - [Let Over Lambda](https://letoverlambda.com/) & [中文文档 Chinese simplified](https://oneforalone.github.io/lol-zh/index.html) ; [Let Over Lambda 笔记](https://abbypan.github.io/2013/12/13/lisp-let-over-lambda)
   <div>
@@ -191,7 +193,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
   
 - [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm) ; [Lisp与现代Web开发](https://vitovan.com/lispweb3-cn.html)
   <div>
-  <img width="75" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> 
+  <img width="75" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> 介绍 Common Lisp 开发 Web 应用
   
 - [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
   <div>
@@ -219,7 +221,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 - [Common Lisp Syntax reference](https://jtra.cz/stuff/lisp/hypergrep/hypergrep.html)
 
-- Loving Common Lisp, or the Savvy Programmer's Secret Weapon
+- Loving Common Lisp, or the Savvy Programmer's Secret Weapon 简短介绍了 Common Lisp一些基础知识，然后给出了一些实际例子，比如如何操作 MongoDB 等。这本书适合那些觉得 Common Lisp 学了找不到工作或者没什么实际用途，但又想简单了解下 Common Lisp 的人。
 
 - Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS. [中文翻译](https://github.com/uternet/oop-in-cl)  
 

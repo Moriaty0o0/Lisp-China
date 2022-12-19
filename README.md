@@ -5,36 +5,25 @@
 ### History:
 
 - <img src="http://jmc.stanford.edu/pictures/banner-1.jpg" width="150"> [Professor John McCarthy](http://jmc.stanford.edu/index.html) : [History of Lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf), 1979.
-
 - [Simons Foundation Video interviews, July 26, 2005, John McCarthy](https://www.simonsfoundation.org/2013/03/13/john-mccarthy/)
-
 - <img width="35" src="https://computerhistory.org/wp-content/themes/bsdstarter/assets/img/chm-logo-text.svg"> [History of LISP](http://www.softwarepreservation.org/projects/LISP) Group by [Paul Mcjones](https://mcjones.org/dustydecks/) <img width="35" src="https://www.mcjones.org/paul/Paul.jpg">
-
 - [LISP I Programmers Manual - IBM 704 - 1960](https://lisp.com.br/archive/LISP_I_Programmers_Manual-IBM_704-1960.pdf) 
-
 - [LISP 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view)
-
 - [The Evolution of Lisp [PDF]](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)  Guy L. Steele Jr.<img width="40" src="https://ieeecs-media.computer.org/wp-media/2018/04/27020637/guy-steele-e1524794858751.jpg"> and [Richard P. Gabriel](https://www.dreamsongs.com/Bio.html) <img width="45" src="https://opensym.org/wp-content/uploads/2015/04/gabriel.png"> , OOPSLA 2008 [Video](https://www.infoq.com/presentations/Lisp-Guy-Steele-Richard-Gabriel/).
-
 - [Early LISP](https://funcall.blogspot.com/2021/03/early-lisp.html) , [Early LISP Part II (Apply redux)]( https://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html).
-
 - [Technical Issues of Separation in Function Cells and Value Cells](https://dreamsongs.com/Separation.html) , [Lisp-1 vs Lisp-2](http://xahlee.info/emacs/emacs/lisp1_vs_lisp2.html)
-
 - [Awesome Lisp Machine](https://github.com/ghosthamlet/awesome-lisp-machine)
-
 - [A few things I know about LISP Machines](http://fare.tunes.org/LispM.html)
-
 - [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies/)
-
 - [HOPL IV: History of Programming Languages](https://www.pldi21.org/track_hopl.html) PLDI 2021 June.
-
 - [Symbolics Lisp Machine Museum](http://smbx.org/)
-
+- [Lisp Literature](https://web.archive.org/web/20211017064908/https://ambrevar.xyz/links/index.html) 
 - Slava Akhmechet：[The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) 2006 & Alec Jang 译 [Lisp的本质](https://www.cnblogs.com/Leap-abead/articles/762180.html)
-
 - 赛义甫：[读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
-
+- [The invention of λ-calculus](https://jepedersen.dk/pdf/2202lc.pdf).
 - Paul Graham：The Roots of Lisp, 2001. 译 [Lisp之根源](https://www.cnblogs.com/Leap-abead/articles/762226.html).
+- [Lisp as the Maxwell’s equations of software](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/) , ["Maxwell's equations of software" examined](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html).
+- Kazimir Majorinc: [A few examples of Lisp code typography](http://kazimirmajorinc.com/Documents/Lisp-code-typography/index.html)
 
 ****
 
@@ -117,7 +106,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 - [SICP解题集](https://sicp.readthedocs.io/en/latest/) 
 - [SICP Python 描述 中文版](https://wizardforcel.gitbooks.io/sicp-py/content/) 
 - [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
-- [计算机程序的构造和解释(原书第2版)](https://book.douban.com/subject/1148282/) 豆瓣
+- 豆瓣 [计算机程序的构造和解释(原书第2版)](https://book.douban.com/subject/1148282/) 
 
 ****
 
@@ -154,7 +143,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 
 -  Lisp 程序员眼中的 Python https://pythonhunter.org/episodes/7  嘉宾：[David Gu](http://macdavid313.xyz/) ，2019年.
 
-- <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年.
+- <img width="40px" src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/635ad9f1-6ce0-4f31-84cf-030e0c949169/cover_small.jpg"/> [Teahour.fm](https://teahour.fm/2014/03/17/interview-with-binghe.html)——https://www.ximalaya.com/sound/3031497 嘉宾：[田春](https://github.com/binghe) ,  2014年. [Gensym G2](https://ignitetech.com/softwarelibrary/gensym).
 
 - <img width="35" src="https://imagev2.xmcdn.com/group17/M05/63/28/wKgJJFeeYafS-qUNAAIYz2ivNpY134.jpg"> 代码时间(终结) —— 嘉宾：韩祝鹏，Lisp入门. 2016年. https://www.ximalaya.com/keji/4867505/25888083
 
@@ -236,7 +225,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 - [Practical Common Lisp笔记](https://jamsa.github.io/post/lisp/practical_common_lisp/) 
   
   <div>
-  <img width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> 前3章值得阅读，中间章节略显拖沓，最后几章的实例可以阅读。
+  <img width="75px" src="./images/practical.jpg"/><img width="80px" src="./images/实用.jpg"/> 本书第3章以及第23章至31章皆示例程序，可供练习，而第4章至22章可说是语言查询手册，此书不适合作为初级入门教科书。
 
 - Common LISP craft. 书在展示`Lisp`独特的概念上是最有帮助的，比如闭包。 这本书很易读（不是说我现在精通了`Lisp`后说易读的那种），并包含了很多很明了的例子。附录中还有一个简要的`Common Lisp`手册。 推荐初学者也可以用这本书作为第一本书。
 
@@ -431,7 +420,7 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
 * <img width="45px" src="https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_500x.jpg"/> [Functional Geekery](https://www.functionalgeekery.com/)—— A podcast on Functional Programming, covering topics across multiple languages.
 * CoRecursive Podcast： [The Little Typer](https://corecursive.com/023-little-typer-and-pie-language/) with Dan Friedman and David Christiansen
 * CoRecursive Podcast： [God's Programming Language](https://corecursive.com/021-gods-programming-language-with-philip-wadler/) with Philip Wadler
-* CoRecursive Podcast： [Language Oriented Design](https://corecursive.com/039-hal-abelson-sicp/#scheme) discussing SICP with Hal Abelson
+* CoRecursive Podcast： [Language Oriented Design](https://corecursive.com/039-hal-abelson-sicp/) discussing SICP with Hal Abelson
 * CoRecursive Podcast： [LISP in Space With Ron Garret](https://corecursive.com/lisp-in-space-with-ron-garret/) 
 
 ### Video：
@@ -446,6 +435,7 @@ EmacsTalk 2022 春节特别节目 Lighting Talks [bilibili](https://www.bilibili
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | University at Buffalo, The State University of New York | [A Short Course in Common Lisp](https://cse.buffalo.edu/~shapiro/Courses/CSE202/Summer2004/) Summer, 2004 |                                                              |
 |                         Indiana                         | [C311/B521/A596 Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php) | <img width="30" src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif"> [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)<br>[Daniel P Friedman: A Celebration 2004](https://legacy.cs.indiana.edu/dfried_celebration.html) |
+|    Queens College of the City University of New York    | [CSCI 316 Principles of Programming Languages](https://phantom.cs.qc.cuny.edu/kong/316/) |                        Tat Yung Kong                         |
 |                           MIT                           | [Dynamic Languages Group](http://www.ai.mit.edu/projects/dynlangs/) |                                                              |
 |                 Simon Fraser University                 | CMPT 310: [Artificial Intelligence Survey](https://www2.cs.sfu.ca/CourseCentral/310/pwfong/) |                                                              |
 |                                                         | [CS3723 Programming Languages Spring 2011](http://www.cs.uccs.edu/~qyi/UTSA-classes/cs3723/) |                                                              |

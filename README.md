@@ -21,7 +21,7 @@
 - Slava Akhmechet：[The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) 2006 & Alec Jang 译 [Lisp的本质](https://www.cnblogs.com/Leap-abead/articles/762180.html)
 - 赛义甫：[读《Lisp的本质》(The nature of Lisp)——悼Schönfinkel](http://blog.sciencenet.cn/blog-2349385-1039514.html)
 - [The invention of λ-calculus](https://jepedersen.dk/pdf/2202lc.pdf).
-- Paul Graham：The Roots of Lisp, 2001. 译 [Lisp之根源](https://www.cnblogs.com/Leap-abead/articles/762226.html).
+- Paul Graham：The Roots of Lisp, 2001. 译 [Lisp之根源1](https://www.cnblogs.com/Leap-abead/articles/762226.html), [Lisp之根源2](https://shixiongfei.com/roots-of-lisp.html).
 - [Lisp as the Maxwell’s equations of software](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/) , ["Maxwell's equations of software" examined](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html).
 - Kazimir Majorinc: [A few examples of Lisp code typography](http://kazimirmajorinc.com/Documents/Lisp-code-typography/index.html)
 
@@ -333,11 +333,19 @@ Debian  Synaptic Package Manager
 
 <img width="35" src="https://www.racket-lang.org/img/racket-logo.svg"> https://www.racket-lang.org/
 
+ tyrchen 陈天：[Racket语言入门](https://tyrchen.github.io/racket-book/)
+
 - [Racket News](https://racket-news.com/)
 
 - [Racket Stories](https://racket-stories.com/)
 
 - [NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
+
+[An Overview of Common Racket Data Structures](https://alex-hhh.github.io/2019/02/racket-data-structures.html)
+
+[Why learn Racket? A student's perspective - Micah Cantor](https://www.micahcantor.com/blog/why-learn-racket/) 
+
+[Parsing propositional logic in 33 lines of Racket](https://micahcantor.xyz/blog/logic-racket-parser) 
 
 ****
 

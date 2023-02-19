@@ -102,7 +102,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
 </tr>
 </table>
 
-- 洪峰：[Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745)
+- 洪峰·创客道：[Scheme之道](https://blog.csdn.net/xiao_wanpeng/article/details/8466745)
 - [SICP解题集](https://sicp.readthedocs.io/en/latest/) 
 - [SICP Python 描述 中文版](https://wizardforcel.gitbooks.io/sicp-py/content/) 
 - [Why *Structure and Interpretation of Computer Programs* Matters](http://www.cs.berkeley.edu/~bh/sicp.html) ; [译文：为何 SICP 意义重大](https://soulhacker.me/posts/why-sicp-matters/).
@@ -159,6 +159,8 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
   <div>
   <img width="75px" src="./images/Symbolic.jpg"/> 一本相当给力的 Lisp 入门书，以 Common Lisp 方言为表述载体。
 
+- [Common Lisp: An Interactive Approach](https://cse.buffalo.edu/~shapiro/Commonlisp/)
+  
 - [中文翻译 Chinese simplified](https://acl.readthedocs.io/en/latest/zhCN/index.html) ; [ANSI Common Lisp 笔记](https://dirtysalt.github.io/html/ansi-common-lisp.html) ; ["ANSI Common LISP" Answer  for Practice](https://www.shido.info/lisp/pacl2_e.html)
   
   <div>
@@ -207,7 +209,7 @@ Andy Balaam - Scheme Programming [bilibili](https://www.bilibili.com/video/av369
   <div>
   <img width="75" src="http://www.adamtornhill.com/articles/lispwebpics/title_page.jpg"> 介绍 Common Lisp 开发 Web 应用
 
-- [Common Lisp： the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
+- [Common Lisp： the Language, 2nd Edition](https://ldbeth.sdf.org/cltl2.html)
   
   <div>
   <img width="75px" src="./images/CL.jpg"/> 简称CLtL2，是对ANSI标准委员会工作的二次阐释。并不是标准过程的一部分，但被很多Lisp厂商用来预测最终的委员会最终出的结果。 一些Lisp系统同时实现了CLtL2和ANSI标准的部分。
@@ -326,26 +328,29 @@ Debian  Synaptic Package Manager
 - [cl-ppcre](https://github.com/edicl/cl-ppcre) Common Lisp regular expression library
 - [Embeddable Common-Lisp](https://ecl.common-lisp.dev/) is an interpreter of the Common-Lisp language as described in the X3J13 Ansi specification, featuring CLOS (Common-Lisp Object System), conditions, loops, etc, plus a translator to C, which can produce standalone executables.
 - [LISP In Summer Projects](http://www.lispinsummerprojects.org/) 
+- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
 
 ****
 
 ### Racket
 
-<img width="35" src="https://www.racket-lang.org/img/racket-logo.svg"> https://www.racket-lang.org/
+<img width="35" src="https://www.racket-lang.org/img/racket-logo.svg"> https://www.racket-lang.org/, [The Racket Guide](https://docs.racket-lang.org/guide/index.html). 
 
  tyrchen 陈天：[Racket语言入门](https://tyrchen.github.io/racket-book/)
 
-- [Racket News](https://racket-news.com/)
+[Racket News](https://racket-news.com/)
 
-- [Racket Stories](https://racket-stories.com/)
+[Racket Stories](https://racket-stories.com/)
 
-- [NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
+[NU PLT](https://www2.ccs.neu.edu/racket/)，[SICP Support for DrRacket](https://www.neilvandyke.org/racket/sicp/)，[PLT Scheme is now Racket](https://plt-scheme.org/)
 
 [An Overview of Common Racket Data Structures](https://alex-hhh.github.io/2019/02/racket-data-structures.html)
 
 [Why learn Racket? A student's perspective - Micah Cantor](https://www.micahcantor.com/blog/why-learn-racket/) 
 
 [Parsing propositional logic in 33 lines of Racket](https://micahcantor.xyz/blog/logic-racket-parser) 
+
+[Maeiee书的Lisp巫师](https://www.maxieewong.com/cat_Maeiee%E7%9A%84Lisp%E5%B7%AB%E5%B8%88%E4%B9%A6.html) 
 
 ****
 
